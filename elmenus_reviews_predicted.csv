@@ -1,0 +1,767 @@
+source,text,rating,reviewer,time_stamp,text_translated,sentiment,predicted_sentiment
+Elmenus,"the delivery was very very late, the estimated time was 9:28 and I received it at 10:28pm, the portion  was smaller than the last time I ordered, the driver was going to take more than the actual price on the app and argued with me.",2,Judy Asal,8 days ago,كان التسليم متأخرا للغايه  وكان الوقت المقدر 928 وتلقيته في الساعه 1028 مساء  وكان الجزء أصغر من آخر مره أمرت فيه  وكان السائق سيستغرق أكثر من السعر الفعلي علي التطبيق وجادل معي,negative,negative
+Elmenus,Lots of sauce and not much beef. The photo showed the beef with noodles which is misleading,2,Patrick bradley,15 days ago,الكثير من الصلصه وليس الكثير من اللحم البقري أظهرت الصوره اللحم البقري مع المعكرونه التي تتضلل,negative,negative
+Elmenus,No sushi menu!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  No sushi menu!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,1,Oleksandr Kumeiko,a month ago,لا قائمه السوشي  لا قائمه السوشي ,negative,negative
+Elmenus,الاكل بارد جدا واتاخر ساعه,1,Abdallah M. Ahmed,a month ago,الاكل بارد جدا واتاخر ساعه,negative,negative
+Elmenus,الشانتونج كله لازق في بعضه,3,Amir Rafik,a month ago,الشانتونج كله لازق في بعضه,neutral,negative
+Elmenus,الاكل طعمه بايت مش طازة وبارد و مهرول,1,Nesma Khaled,a month ago,الاكل طعمه بايت مش طازه وبارد و مهرول,negative,negative
+Elmenus,السويت اند ساور والييف كانو حلوين اوي. لكن التشكن كاجو مش حلو خالص ولا شوربة ماه مي. الاوردر كمان جه بدون معلقة وشوكة.,3,Shereen Berry,a month ago,السويت اند ساور والييف كانو حلوين اوي لكن التشكن كاجو مش حلو خالص ولا شوربه ماه مي الاوردر كمان جه بدون معلقه وشوكه,neutral,negative
+Elmenus,Where is your sushi menu?????????????!!!!!!!!!!!!!!!!!!!!,1,Oleksandr Kumeiko,a month ago,أين هي قائمه السوشي الخاصه بك  ,negative,negative
+Elmenus,"كل مرة الحاجة كانت بتيجي فريش
+المرادي السبرينج رولز مزيتة اويييييي بجد 
+والفراخ السويت اند ساور اكنها كانت بايتة 
+انتوا حاجتكوا كويسة ودايما بجيب منكوا بس المرادي تجربة غير موفقة",1,Bassant Ellakany,a month ago,"كل مره الحاجه كانت بتيجي فريش
+المرادي السبرينج رولز مزيته اويييييي بجد 
+والفراخ السويت اند ساور اكنها كانت بايته 
+انتوا حاجتكوا كويسه ودايما بجيب منكوا بس المرادي تجربه غير موفقه",negative,negative
+Elmenus,الطعم  وحش جدا و في شعر في الاكل,1,Ashraqt Moataz,a month ago,الطعم  وحش جدا و في شعر في الاكل,negative,negative
+Elmenus,"i ordered 3 types of chicken, got them all wrong",1,Salma Kh,2 months ago,لقد طلبت 3 أنواع من الدجاج  وخطأتهم جميعا,negative,negative
+Elmenus,No sushi menu available in elmenus! Pls check,1,Oleksandr Kumeiko,2 months ago,لا توجد قائمه السوشي المتاحه في Elmenus الرجاء التحقق,negative,negative
+Elmenus,مكرونة مش نودلز و الطعم متوسط و فيه أحسن من كده بكتير,3,Hisham Fahmi,2 months ago,مكرونه مش نودلز و الطعم متوسط و فيه أحسن من كده بكتير,neutral,negative
+Elmenus,الاكل جه متأخر وبارد والارز غير مطهى,2,Aalaa Yousef,2 months ago,الاكل جه متأخر وبارد والارز غير مطهي,negative,negative
+Elmenus,Delay from restraunt 1 hour over the expected,4,Ismail Khaled,2 months ago,تأخير من Restraunt 1 ساعه علي المتوقع,positive,negative
+Elmenus,الاكل جيه مدلوق,1,Salma,3 months ago,الاكل جيه مدلوق,negative,negative
+Elmenus,I ordered 2 sweet n sour chicken and 1 beef instead i got 2 beef and 1 chicken,3,Amr,3 months ago,طلبت 2 حلو دجاج الحامض ولحم البقر بدلا من ذلك حصلت علي 2 لحم بقر ودجاج واحد,neutral,negative
+Elmenus,Food was so cold,1,N,3 months ago,كان الطعام باردا جدا,negative,negative
+Elmenus,Noddles very very very dryyyy,1,Zeina,4 months ago,Noddles dryyyy جدا جدا جدا,negative,negative
+Elmenus,"I wanted to receive my order from Rafale branch cause the price  and portion I choose match with fine dinning restaurant not fast food. 
+
+The quality and the taste so bad! I hate it 
+Lack of vegetables and sauce in the noodle and I ordered spicy and ...",1,Yara,4 months ago,"أردت أن أتلقي طلبي من فرع Rafale لأن السعر والجزء الذي أختاره مطابقه مع مطعم Fine Dinning وليس الوجبات السريعه 
+
+الجوده والذوق سيء للغايه أنا أكره ذلك 
+قله الخضار والصلصه في المعكرونه وأمرت حار و ",negative,negative
+Elmenus,I ordered normal beef it came spicy for all 3 orders,2,EnGy KhOrshed,5 months ago,لقد طلبت لحوم البقر العاديه أنه جاء حارا لجميع الطلبات الثلاثه,negative,negative
+Elmenus,تجربه سيئة,1,ahmed shady,5 months ago,تجربه سيئه,negative,negative
+Elmenus,بجد ده مش اكل,1,Laila Akl,6 months ago,بجد ده مش اكل,negative,negative
+Elmenus,"طلبت اكتر من مرة قبل كده وكان الاكل لذيذ جدا المره دي الاكل كان مش احسن حاجه النودلز طعمها اخف والترياكي مسكر بزيادة 
+وكمان كان جاي شبه مقلوب ومدلوق 
+وكمان كان في شعره في الاكل 
+اتمني يكون الاكل احسن من كده المره الجايه وانظف .",2,Rahma Mohamed,6 months ago,"طلبت اكتر من مره قبل كده وكان الاكل لذيذ جدا المره دي الاكل كان مش احسن حاجه النودلز طعمها اخف والترياكي مسكر بزياده 
+وكمان كان جاي شبه مقلوب ومدلوق 
+وكمان كان في شعره في الاكل 
+اتمني يكون الاكل احسن من كده المره الجايه وانظف ",negative,negative
+Elmenus,حلو جدا واحسن من كل مره بيجي فيها بس كميه النودلز قليله بس الطعم تحفه,4,Totaa Mohammed,6 months ago,حلو جدا واحسن من كل مره بيجي فيها بس كميه النودلز قليله بس الطعم تحفه,positive,positive
+Elmenus,طلبت فراخ بلكاجو جابو فراخ بلخضار  وتقريبا  الأصناف نسبة ٧٠ % الصوص والخضار البروتين اذا فراخ او لحم شبه موجوده,1,samer mero,7 months ago,طلبت فراخ بلكاجو جابو فراخ بلخضار  وتقريبا  الأصناف نسبه ٧٠  الصوص والخضار البروتين اذا فراخ او لحم شبه موجوده,negative,negative
+Elmenus,"hello guys I advise to never waste your money on this restaurent I had never taste as bad as this chinese food .
+ I have order 7 dishes non of them was good I didn't
+ even could dated them .
+the chichen has bad taste where u feel nause and all fried ...",1,Joyce Accad,7 months ago,"مرحبا يا رفاق  أنا أنصح أبدا أموالك علي هذا المطاعم لم أتذوق أبدا مثل هذا الطعام الصيني
+ لدي طلب 7 أطباق لم يكن جيدا
+ حتي يمكن أن مؤرخه لهم
+تشيشن لها طعم سيئ حيث تشعر بالغزون وكلها مقليه ",negative,negative
+Elmenus,للاسف لم يتم اعداد الاوردر طبقا للمطلوب على الابليكييشن,1,Shreef Elsayed,7 months ago,للاسف لم يتم اعداد الاوردر طبقا للمطلوب علي الابليكييشن,negative,negative
+Elmenus,لم تتم الطلبات المذكورة بملاحظاتى نهااااائى ان النودلز تكون حارة,1,Shreef Elsayed,7 months ago,لم تتم الطلبات المذكوره بملاحظاتي نهااااائي ان النودلز تكون حاره,negative,negative
+Elmenus,a bit late,4,Joanne Salama,7 months ago,متأخر قليلا,positive,positive
+Elmenus,Small portions,5,Yam,8 months ago,أجزاء صغيره,positive,positive
+Elmenus,Cashew chicken with no cashews!!,3,Jehan Al Taji,9 months ago,دجاج الكاجو مع عدم وجود الكاجو ,neutral,negative
+Elmenus,تطلب اسبيسي يجي عادي الفرخ نشفه مجلده فرع ستي ستارز احسن بكتير,3,Totaa Mohammed,9 months ago,تطلب اسبيسي يجي عادي الفرخ نشفه مجلده فرع ستي ستارز احسن بكتير,neutral,negative
+Elmenus,Extremely extremely bad. Will not order again,1,Sohaila Motaz,9 months ago,سيء للغايه لن تطلب مره أخري,negative,negative
+Elmenus,Thrj,5,Mariem Essam,9 months ago,thrj,positive,negative
+Elmenus,شكرا جدا,5,محمد فؤاد,9 months ago,شكرا جدا,positive,positive
+Elmenus,الاوردر واصل ناقص,1,Mona Mounir Mohamed,10 months ago,الاوردر واصل ناقص,negative,negative
+Elmenus,ماتوقت يكون طعمه مثل الاندومي,3,هديل,10 months ago,ماتوقت يكون طعمه مثل الاندومي,neutral,negative
+Elmenus,👍🏻,3,Aya Ahmed Kamel,10 months ago,,neutral,positive
+Elmenus,الاكل نصه كان بارد مش سخن وكان فيه خصله شعر في الأكل والطلب الي كان فيه لحمه كانت مش مستويه كويس,2,Bebo Adel,10 months ago,الاكل نصه كان بارد مش سخن وكان فيه خصله شعر في الأكل والطلب الي كان فيه لحمه كانت مش مستويه كويس,negative,negative
+Elmenus,Rotten beef,1,Gehad Ahmed Yonis,10 months ago,لحوم البقر الفاسد,negative,negative
+Elmenus,"The noodles was a bit dry , not juicy as always",4,Ahmed Koka,a year ago,كانت المعكرونه جافه بعض الشيء  وليس العصير كما هو الحال دائما,positive,negative
+Elmenus,majority of chicken was very salty,3,Mo Wade,a year ago,غالبيه الدجاج كانت مالحه جدا,neutral,negative
+Elmenus,الاوردر وضل غلط جاي لحمه بدل فراخ  والنودلز مش نضيفه خالص,1,Eman Ahmed,a year ago,الاوردر وضل غلط جاي لحمه بدل فراخ  والنودلز مش نضيفه خالص,negative,negative
+Elmenus,طلبت fried rice وجالي رز مسلوق بدون الرجوع ليا,3,Aya Adel,a year ago,طلبت fried rice وجالي رز مسلوق بدون الرجوع ليا,neutral,negative
+Elmenus,missing spring roll,3,Abeer Abdel Hamid,a year ago,لفه الربيع المفقوده,neutral,negative
+Elmenus,حلو,5,Abeer,a year ago,حلو,positive,positive
+Elmenus,المكرونه معجبنه و مالحه جدا,1,Hadeer Reda,a year ago,المكرونه معجبنه و مالحه جدا,negative,negative
+Elmenus,"I paid for 2 beef teriyaki and sweet and sour chicken with noodles and one spring roll 
+but,they delivered to me one beef teriyaki instead of 2 
+with no refund and no the missed one to be delivered",2,Marihane elshazly,a year ago,"لقد دفعت مقابل 2 لحوم البقر Teriyaki والدجاج الحلو والحامض مع المعكرونه ولفافه الربيع واحده 
+لكنهم سلموا لي لحوم البقر Teriyaki بدلا من 2 
+مع عدم استرداد المبلغ ولا يتم تسليم واحد",negative,negative
+Elmenus,"The food was tasteless and not well cooked.
+The shantong came as if if is a dough, not fried well .
+Total disappointment 👎🏻",1,Menna Shaker,a year ago,"كان الطعام لا طعم له وليس مطبوخ جيدا
+جاء Shantong كما لو كان العجين  وليس المقليه جيدا
+خيبه أمل تامه ",negative,negative
+Elmenus,الرز بايظ,1,Rasha Mohamed Adel,a year ago,الرز بايظ,negative,negative
+Elmenus,The chicken was abit salty,4,Sara,a year ago,كان الدجاج أزعجا مالحا,positive,negative
+Elmenus,The agent who talked to me on the phone was very helpful and ensured that my comments have been addressed,5,Abdelrahman Ehab,a year ago,كان الوكيل الذي تحدث معي علي الهاتف مفيدا للغايه وتأكد من معالجه تعليقاتي,positive,negative
+Elmenus,the portion was not sufficient+ and it didn't taste the way it was before,2,Zeyad Hossam Eldeen,a year ago,الجزء لم يكن كافيا ولم يتذوق ما كان عليه من قبل,negative,negative
+Elmenus,طلبت فراخ سيشوان جت سويت و وحشة و لحمة سبايسي جت كباب حلة بالقرفة و النودلز مكسرة تتاكل بمعلقة و الشاندونج مش متبل راشين خل و توم ني و كله بارد حاجة في منتهى الاستهتار و السوء ايه دة؟!!,1,Amr,a year ago,طلبت فراخ سيشوان جت سويت و وحشه و لحمه سبايسي جت كباب حله بالقرفه و النودلز مكسره تتاكل بمعلقه و الشاندونج مش متبل راشين خل و توم ني و كله بارد حاجه في منتهي الاستهتار و السوء ايه ده,negative,negative
+Elmenus,Wasnt what was in picture,3,Mohamed Alaa,a year ago,لم يكن ما كان في الصوره,neutral,negative
+Elmenus,"I ordered beef spicy 
+And got chicken",3,Ahmed Adel,a year ago,"طلبت لحوم البقر حار 
+وحصلت علي الدجاج",neutral,negative
+Elmenus,"Most of the menu items aren’t available. The restaurant will most likely call you to change your order. The food is decent, but a lot of menu items don’t exist.",3,Mohamed Amin,a year ago,معظم عناصر القائمه غير متوفره من المرجح أن يتصل بك المطعم لتغيير طلبك الطعام لائق  لكن الكثير من عناصر القائمه غير موجوده,neutral,negative
+Elmenus,Great food great taste,5,Amera A. Ebrahim,a year ago,طعام رائع طعم رائع,positive,positive
+Elmenus,the noodles was soooooo salty and the rice had strange smell,3,yasmine,a year ago,كانت المعكرونه المالحه Soooooo و Rice كان لها رائحه غريبه,neutral,negative
+Elmenus,الكابتن اخد زياده 50 جنيه و مرضاش يجيبهالي نصب عليا يعني و انا مش مسامحه,1,Ahmed Tarek,a year ago,الكابتن اخد زياده 50 جنيه و مرضاش يجيبهالي نصب عليا يعني و انا مش مسامحه,negative,negative
+Elmenus,packaging needs to be done in a better way as all the sauce was in the bag and the paper plates was so wet,4,yasmine,a year ago,يجب إجراء التغليف بطريقه أفضل لأن كل الصلصه كانت في الحقيبه وكانت اللوحات الورقيه رطبه جدا,positive,negative
+Elmenus,"driver stayed still for over 30 minutes after grabbing the order, my food was freezing cold I had to microwave it",3,Mohame D. Zayed,a year ago,بقي السائق ثابتا لأكثر من 30 دقيقه بعد الاستيلاء علي الطلب  كان طعامي يتجمد باردا,neutral,negative
+Elmenus,The bakmi goreng is very bad and it didn’t have shrimp it had chicken and it tasted very very bad the baddest thing ever,3,hala,a year ago,إن Bakmi Goreng سيء للغايه ولم يكن لديه جمبري كان لديه دجاج وتذوقه سيئا للغايه,neutral,negative
+Elmenus,"your seat and sour chicken taste much better. I will definitely order again.
+in the past it was not good.
+now you guys have improved the quality of the meal.
+Good job.
+I can tell my friends.
+thank you.",5,gg brown,a year ago,"مقعدك وذوق الدجاج الحامض أفضل بكثير سأطلب بالتأكيد مره أخري
+في الماضي لم يكن جيدا
+الآن يا رفاق قد حسنت جوده الوجبه
+أحسنت
+أستطيع أن أخبر أصدقائي
+شكرا لك",positive,negative
+Elmenus,"many sides ""protein"" were wrong and one was missing",3,Fady Essam,a year ago,العديد من الأطراف البروتين كانت خاطئه وكان أحدهما مفقودا,neutral,negative
+Elmenus,Not for eating !! Bad Quality,1,Aya,a year ago,ليس للأكل  جوده سيئه,negative,negative
+Elmenus,"Burnt food , awful taste , the food was thrown completely in the bin . Never tasted something awful a s this . Don’t order from this restaurant it’s awful .",1,Sarah Hossam Issa,a year ago,طعام محترق  طعم فظيع  تم إلقاء الطعام بالكامل في الصندوق لم تتذوق شيئا فظيعا هذا لا تطلب من هذا المطعم فظيعه,negative,negative
+Elmenus,الاكل سيء جدا و خصوصا الشوربة اسوأ شوربة كلتها في حياتي و الفراخ مش مستوية في النودلز اخر مرة هطلب من عندكو و منصحش اي حد بيه,1,Nervana K. Ahmed,a year ago,الاكل سيء جدا و خصوصا الشوربه اسوأ شوربه كلتها في حياتي و الفراخ مش مستويه في النودلز اخر مره هطلب من عندكو و منصحش اي حد بيه,negative,negative
+Elmenus,all verry good 👍,5,Ginette Vermeir,2 years ago,كل شيء جيد ,positive,positive
+Elmenus,"Food tasted really bad.
+
+Rice had a weird taste. 
+
+Chicken was obviously not fresh.",1,Jad Jomaa,2 years ago,"ذاقت الطعام سيئه حقا
+
+كان للأرز طعم غريب 
+
+من الواضح أن الدجاج لم يكن جديدا",negative,negative
+Elmenus,الشوربه خفيفه ميه,1,Mervat B. Labib,2 years ago,الشوربه خفيفه ميه,negative,negative
+Elmenus,الكميات تضحك والله والطعم استغفر الله ..,1,Cetro Mohamed,2 years ago,الكميات تضحك والله والطعم استغفر الله ,negative,positive
+Elmenus,thanks......,5,Jacinth Zoom Silurian,2 years ago,شكرا,positive,positive
+Elmenus,"Only thing I have to say is that it is expensive, otherwise very satisfied.",5,amani,2 years ago,الشيء الوحيد الذي يجب أن أقوله هو أنه مكلف  وإلا راضيا للغايه,positive,positive
+Elmenus,"الاكل وصل متأخر تقريبا نص ساعة وساقع اللحمه والرز حتى مش دافيين 
+وحش جدا",2,Nova Kamel,2 years ago,"الاكل وصل متأخر تقريبا نص ساعه وساقع اللحمه والرز حتي مش دافيين 
+وحش جدا",negative,negative
+Elmenus,Food was horrible,1,Nader Sherif,2 years ago,كان الطعام فظيعا,negative,negative
+Elmenus,الاكل مش حلو خالص  واللحم نيه والنودلز مكسرة,1,Magda Mostafa,2 years ago,الاكل مش حلو خالص  واللحم نيه والنودلز مكسره,negative,negative
+Elmenus,saltyy,3,Bassam Ahmed,2 years ago,Saltyy,neutral,negative
+Elmenus,دي اول مره اجرب و انا مجربه كذا مطعم نودلز بس من دلوقتي لما هجيب نودلز من عندكو بجد الكوالتي بتاع النودلز تحفه و الصوصات تحفه وكل حاجه دي اول مره و مش اخر مره انصحكو تجربو,5,amgad,2 years ago,دي اول مره اجرب و انا مجربه كذا مطعم نودلز بس من دلوقتي لما هجيب نودلز من عندكو بجد الكوالتي بتاع النودلز تحفه و الصوصات تحفه وكل حاجه دي اول مره و مش اخر مره انصحكو تجربو,positive,negative
+Elmenus,للأسف تجربه سىئه، وجبات السويت أند ساور بدلوا الأناناس بالكوسه، مع إننا أكدنا علي وجود الأناناس.  وجبات بصوص الترياكي و الكاري، إستبدلوه بالكاتشب، و أضافوا مبالغ إضافيه غير التوصيل و الضرايب ، خدمه، للأسف أخر مره هنستخدم هذا التطبيق و هذا المطعم,2,Mahasen Taha,2 years ago,للأسف تجربه سيئه وجبات السويت أند ساور بدلوا الأناناس بالكوسه مع إننا أكدنا علي وجود الأناناس  وجبات بصوص الترياكي و الكاري إستبدلوه بالكاتشب و أضافوا مبالغ إضافيه غير التوصيل و الضرايب  خدمه للأسف أخر مره هنستخدم هذا التطبيق و هذا المطعم,negative,negative
+Elmenus,"it was good, but the chicken quantities were small",4,Ahmed Mowafy,2 years ago,كانت جيده  لكن كميات الدجاج كانت صغيره,positive,negative
+Elmenus,"Sweet n sour chicken was too sweet, felt like eating sugar",3,Dina,2 years ago,كان الدجاج الحلو الحامض حلوا جدا  وشعرت مثل تناول السكر,neutral,negative
+Elmenus,The food was bad and i got diarrhea. It’s not the first time but definitely the LAST,1,Akram,2 years ago,كان الطعام سيئا وحصلت علي الإسهال ليست هذه هي المره الأولي ولكن بالتأكيد الأخيره,negative,negative
+Elmenus,Good,5,Nader Sherif,2 years ago,جيد,positive,positive
+Elmenus,So bad,1,Nour walid,2 years ago,سيء جدا,negative,negative
+Elmenus,"plastic on top of hot food directly
+barely any chicken tandoori
+tandoori is very very very salty can go on and on.",1,omar,2 years ago,"البلاستيك فوق الطعام الساخن مباشره
+بالكاد أي دجاج تندوري
+Tandoori هو المالح للغايه يمكن أن يستمر ويستمر",negative,negative
+Elmenus,"Very bad noddles
+Very bad beef and chicken
+The taste is horrible
+Also the food was cold and not fresh
+Very bad experience",1,Mai Atef,2 years ago,"عقيدات سيئه للغايه
+لحوم البقر والدجاج السيئ للغايه
+الذوق فظيع
+كما كان الطعام باردا وليس جديدا
+تجربه سيئه للغايه",negative,negative
+Elmenus,انا مكنتش طالبه نوع ال لحمه دى,1,Salma Samy Helal,2 years ago,انا مكنتش طالبه نوع ال لحمه دي,negative,negative
+Elmenus,حلو جدا,5,Amani Glab,2 years ago,حلو جدا,positive,positive
+Elmenus,Missing item vegetable noodles,1,Ramy Samy,2 years ago,مفقود المعكرونه الخضار,negative,negative
+Elmenus,All was good,5,Mayar,2 years ago,كل شيء كان جيدا,positive,positive
+Elmenus,"أول مره الاوردر يطلع سيء ..النودلز وحشه التشكن سويت أند ساور مش طازه الصوص مش كما متعودين عليه ...
+اوردر ضايقنا",1,Rehab ElShenety,2 years ago,"أول مره الاوردر يطلع سيء النودلز وحشه التشكن سويت أند ساور مش طازه الصوص مش كما متعودين عليه 
+اوردر ضايقنا",negative,negative
+Elmenus,الاكل قديم ومتسخة والرز سئ جدا والفراخ وحشه جدا جدا,1,EMan Tolba,2 years ago,الاكل قديم ومتسخه والرز سئ جدا والفراخ وحشه جدا جدا,negative,negative
+Elmenus,سيئ جدا والاكل مملح بزيادة,1,Sami,2 years ago,سيئ جدا والاكل مملح بزياده,negative,negative
+Elmenus,الاكل كان بارد..اللحمه مجلدة اوي,1,Heba Hakim,2 years ago,الاكل كان بارداللحمه مجلده اوي,negative,negative
+Elmenus,لقيت فراخ وسط الخضار بالصدفه سبحان الله,3,Sarah Ekram,2 years ago,لقيت فراخ وسط الخضار بالصدفه سبحان الله,neutral,negative
+Elmenus,the food is fantastic and the delivery is excellent,5,Moetaz Sabri,2 years ago,الطعام رائع والتسليم ممتاز,positive,positive
+Elmenus,Chicken was not well cooked,3,yara,2 years ago,لم يكن الدجاج مطبوخا جيدا,neutral,negative
+Elmenus,"Food was very cold and literally i had one piece of chicken and the rest is vegetables, food was not cooked well, everything was so bad, i will never order again from you .",1,Nada Essam,2 years ago,كان الطعام باردا جدا  وحرفيا كان لدي قطعه واحده من الدجاج والباقي هو الخضار  ولم يكن الطعام مطبوخا جيدا  وكل شيء كان سيئا للغايه  ولن أطلب منك مره أخري,negative,negative
+Elmenus,"The order came wrong portions was so small. The packing was so messy and the sauce with all over the bag 
+Meat was so uncooked",1,mohamed,2 years ago,"كان الأمر الخطأ الذي حدث خاطئا كان صغيرا جدا كان التعبئه فوضويا جدا والصلصه مع جميع أنحاء الحقيبه 
+كان اللحم غير مطبوخ",negative,negative
+Elmenus,good,5,Seif Mansoour,2 years ago,جيد,positive,positive
+Elmenus,Horrible,1,Khadija Mostafa,2 years ago,فظيع,negative,negative
+Elmenus,Zft,1,Mona A'Romia,3 years ago,Zft,negative,negative
+Elmenus,There’s holes in the cling film that is covered on one of shrimp noodles.,1,Fartun Sheikh,3 years ago,هناك ثقوب في فيلم التشبث الذي يتم تغطيته علي أحد المعكرونه الروبيان,negative,negative
+Elmenus,El akl kan w7sh gedan el ferakh wel l7ma kolaha khodar mafish gher 7teten tlata plus el noodles kanet mtetklsh ana baklo mn zaman bs lel asf b2alo kaza mara mytklsh akher mara atlobo,1,nada,3 years ago,El akl kan w7sh gedan el ferakh wel l7ma kolaha khodar mafish gher 7teten tlata plus el noodles kanet mtetklsh ana baklo mn zaman bs lel asf b2alo kaza mara mytklsh akher mara atlobo,negative,negative
+Elmenus,The noodles was so bad,1,Menna Okasha,3 years ago,كانت الشعريه سيئه للغايه,negative,negative
+Elmenus,Sweet and sour tasted horrible,1,Eslam Hamdy,3 years ago,حلو وحامض ذاقته الرهيبه,negative,negative
+Elmenus,"تسلم رجلك يا شيف على الاكل 
+وايه كميه الكوسه الي في الاكل دي",1,Habiba Abdelmohsen,3 years ago,"تسلم رجلك يا شيف علي الاكل 
+وايه كميه الكوسه الي في الاكل دي",negative,negative
+Elmenus,كميه الفراخ و البيف قليله جدا جدا . تقريبا مفيش بيف . التوصيل فقط ال كان كويس,2,Radwa Tarek,3 years ago,كميه الفراخ و البيف قليله جدا جدا  تقريبا مفيش بيف  التوصيل فقط ال كان كويس,negative,negative
+Elmenus,"Food is not aspic ,why!?",4,Hend Essam,3 years ago,الطعام ليس بيكبيا  لماذا,positive,negative
+Elmenus,food arrived very cold with very few portions,3,Ayman Carauto,3 years ago,وصل الطعام باردا جدا مع أجزاء قليله جدا,neutral,negative
+Elmenus,بامكي جورنج مافيهوش حتت جمبري وانا طلباه جمبري 🍤,3,Noorhan Tarek,3 years ago,بامكي جورنج مافيهوش حتت جمبري وانا طلباه جمبري ,neutral,negative
+Elmenus,Tastes very bad,1,Dina Hassan,3 years ago,الأذواق سيئه للغايه,negative,negative
+Elmenus,"Food arrived cold, and 30 mins late.",1,Mohamed,3 years ago,وصل الطعام بارد  و 30 دقيقه متأخره,negative,negative
+Elmenus,But the food a bit salty,4,Adillah Suhami,3 years ago,لكن الطعام مالح قليلا,positive,positive
+Elmenus,The food was cold,1,Hagar Nabil,3 years ago,كان الطعام بارد,negative,positive
+Elmenus,الأكل سيئ جدا,1,malak elsawy,3 years ago,الأكل سيئ جدا,negative,negative
+Elmenus,Noodles was too spicy to the point that I couldn’t eat it and it arrived very cold. The other branch in nasr city is much better.,1,dinaa,3 years ago,كانت المعكرونه حاره للغايه لدرجه أنني لم أتمكن من تناولها ووصلت إلي البروده الفرع الآخر في مدينه نصر أفضل بكثير,negative,negative
+Elmenus,جميل,5,Mona Mahmoud,3 years ago,جميل,positive,positive
+Elmenus,"The food was extra extra extra spicy as non edible..i eat all of my food spicy but the order was not normal spicy, couldnt eat any of them and had to throw them away",1,Ruba Hesham Tantawy,3 years ago,كان الطعام أكثر حارا إضافيا غير صالح للأكل  أنا آكل كل ما عندي من طعامي الحار ولكن الترتيب لم يكن طبيعيا  ولم أستطع تناول أي منها واضطررت إلي رميها بعيدا,negative,negative
+Elmenus,طعمه سئ جدا و جودة تعبانه,1,Eslam Awd,3 years ago,طعمه سئ جدا و جوده تعبانه,negative,negative
+Elmenus,الاكل جه غلط و طعمه وحش و اللحمة زفرة,1,Celo Hano,3 years ago,الاكل جه غلط و طعمه وحش و اللحمه زفره,negative,negative
+Elmenus,النودلز سيئة جدا الي هو أساس المطعم وبقية الأكل نص نص,2,Sarah,3 years ago,النودلز سيئه جدا الي هو أساس المطعم وبقيه الأكل نص نص,negative,negative
+Elmenus,فرع جنينه مول سئ جدا الاكل جاى بارد واللحمه زفرة اوى ومنتهى السوء,1,amiraosama,3 years ago,فرع جنينه مول سئ جدا الاكل جاي بارد واللحمه زفره اوي ومنتهي السوء,negative,negative
+Elmenus,"The order was good and we’ll delivered, but their is a difference between the what has delivered and what I usually order for mall food cort.
+To sum it up, the order was good 👍🏻",5,Asmaa Halwagy,3 years ago,"كان الطلب جيدا وسنقدمه  لكن الفرق بين ما تم تسليمه وما أطلبه عاده لمول الطعام
+لتلخيص ذلك  كان الطلب جيدا ",positive,negative
+Elmenus,"The food was cold after more than 45 mins delay, the CS was soooo unsupportive  and the chicken in the noodles was raw and had ro throw it",1,Ruba Hesham Tantawy,3 years ago,كان الطعام باردا بعد تأخير أكثر من 45 دقيقه  وكان CS غير مدعوم جدا وكان الدجاج في المعكرونه خاما وكان يرميه,negative,negative
+Elmenus,Bad experience,2,Abdallah Emad,3 years ago,تجربه سيئه,negative,negative
+Elmenus,L,1,Bassant Magdy Taha,3 years ago,ل,negative,negative
+Elmenus,Terrible,1,Karim Magdy,3 years ago,رهيب,negative,negative
+Elmenus,No sauces,2,Merna,3 years ago,لا صلصات,negative,negative
+Elmenus,"Very bad 
+Shantong very bad too much oil
+noodles tastes weird  and spicy beef tastes horrible",1,Isabelle Kamal,3 years ago,"سيء جدا 
+شانتونغ سيء للغايه الكثير من الزيت
+الأذواق الأذواق الغريبه والحاره الأذواق الرهيبه",negative,negative
+Elmenus,"Meat wasn't cooked well, so I threw it 
+The noodles weren't ( spicy noodles )
+it was noodles added to it spicy sauce 
+
+spring rolls were bad and empty",1,Passant Ossama,3 years ago,"لم يتم طهي اللحم جيدا  لذا رميته 
+لم تكن الشعريه المعكرونه الحاره
+لقد تمت إضافه شعيريه إلي صلصه حار 
+
+لفات الربيع كانت سيئه وفارغه",negative,negative
+Elmenus,worst noodles soggy and tastless from 6 different chicken and beef item only one tasted good,2,basel farag,3 years ago,أسوأ المعكرونه فطير وذوق من 6 دجاج مختلف ولحم البقر فقط تذوق جيدا,negative,negative
+Elmenus,اوردر مقرف جدا ولا طعم ولا quality  ووصل بعد ساعتين بعد دفع مبلغ محترم ...معلش آخر مره,1,Safy Ahmed,3 years ago,اوردر مقرف جدا ولا طعم ولا quality  ووصل بعد ساعتين بعد دفع مبلغ محترم معلش آخر مره,negative,negative
+Elmenus,elakl mkansh fresh,5,Layla Alsaid,3 years ago,Elakl Mkansh Fresh,positive,negative
+Elmenus,Z,5,Merna Tarek,3 years ago,ض,positive,positive
+Elmenus,الاوردر اتاخر جدا وبجد اوحش اكل كلته في حياتي وجه بارد والنودلز ملهاش طعم والفراخ واللحمة قليلين جدا وطعمهم سئ,1,Nesma Zain Eldeen,3 years ago,الاوردر اتاخر جدا وبجد اوحش اكل كلته في حياتي وجه بارد والنودلز ملهاش طعم والفراخ واللحمه قليلين جدا وطعمهم سئ,negative,negative
+Elmenus,"beef tiryaki was so salty
+noodles was so spicy 
+chicken sweet & sour was so tasteless and dry
+
+unpleasant experience",1,MaYada Kh MokhTar,3 years ago,"كان لحم البقر تيرياكي مالحا جدا
+كانت المعكرونه حار جدا 
+كان الدجاج الحلو والحامض لا طعم له وجاف للغايه
+
+تجربه غير ساره",negative,negative
+Elmenus,Items were totally wrong not what i ordered 👎👎👎. The application and the restaurant are awful,1,Zyad Alafifi,3 years ago,كانت العناصر خاطئه تماما وليس ما طلبته  التطبيق والمطعم فظيعان,negative,negative
+Elmenus,Order came VERY LATE (2HOURS)  and was not hot and the chicken was saggy,1,Mostafa Khafagy,3 years ago,جاء الطلب في وقت متأخر جدا ساعتين ولم يكن ساخنا وكان الدجاج مقلعا,negative,negative
+Elmenus,خطيره تسلم ايدكو,5,Ahmed أحمد Elheliely بودي الهليلي,3 years ago,خطيره تسلم ايدكو,positive,negative
+Elmenus,الاكل جميل جدا بس نفسي الكورما الملح بتاعها يقل شوية عشان مرتين بتجيلي حادقة شوية و النودلز جميلة ممكن بس الصوص يزيد سيكا كمان و الخضار لكن غير كده الترياكي و البيف كاري تحفة ما شاء الله ❤️❤️,4,May Mohamed,3 years ago,الاكل جميل جدا بس نفسي الكورما الملح بتاعها يقل شويه عشان مرتين بتجيلي حادقه شويه و النودلز جميله ممكن بس الصوص يزيد سيكا كمان و الخضار لكن غير كده الترياكي و البيف كاري تحفه ما شاء الله ,positive,negative
+Elmenus,"Horrible quality, not one item tasted right.",1,Tamer Auf,3 years ago,الجوده الرهيبه  وليس عنصر واحد ذاقت الحق,negative,negative
+Elmenus,I ordered super mahraja meal with 3 side items and only 2 side items came,1,Jihan Gamal,3 years ago,طلبت وجبه سوبر مهراجا مع 3 عناصر جانبيه وجاءت فقط عنصرين جانبيين,negative,negative
+Elmenus,wasn't good,3,heba yassin,3 years ago,لم يكن جيدا,neutral,positive
+Elmenus,J,1,Mariam M. Mansoub,3 years ago,ي,negative,positive
+Elmenus,"الأكل والله ما يتاكل 
+لو كان اكل قطط يبقى اكرملهم والله",1,Mohamed Abdel Halim,3 years ago,"الأكل والله ما يتاكل 
+لو كان اكل قطط يبقي اكرملهم والله",negative,negative
+Elmenus,food delivered without sauce snd dry,2,Engi Elfatairy,3 years ago,يتم تسليم الطعام بدون صلصه جافه,negative,negative
+Elmenus,الاكل وحش جدااا وعباره عن خضار بس والسبرينج رولز كان عبارة عن زيت وطرى جداا وبايت  وخدمه العملا بتاعت  المطعم معاملتها تقرف واسلوبهم وحش جدا,1,mariam,3 years ago,الاكل وحش جدااا وعباره عن خضار بس والسبرينج رولز كان عباره عن زيت وطري جداا وبايت  وخدمه العملا بتاعت  المطعم معاملتها تقرف واسلوبهم وحش جدا,negative,negative
+Elmenus,الاكل طعمه وحش النودلز خصوصا ناشفة ووحشة,3,Nayera Walid,3 years ago,الاكل طعمه وحش النودلز خصوصا ناشفه ووحشه,neutral,negative
+Elmenus,ممتاز,5,Hima Khaled,3 years ago,ممتاز,positive,positive
+Elmenus,طلبت تندوري واللي جاني سبياسي بس بغض النظر الأكل كان حلو قوي,4,ألاء,3 years ago,طلبت تندوري واللي جاني سبياسي بس بغض النظر الأكل كان حلو قوي,positive,negative
+Elmenus,It wasn’t nice at all,1,Nada A Abdelhakim,3 years ago,لم يكن لطيفا علي الإطلاق,negative,negative
+Elmenus,Super amazing,5,Karen John,3 years ago,سوبر مذهله,positive,positive
+Elmenus,الاكل حلو,5,Magda Shoukry,3 years ago,الاكل حلو,positive,positive
+Elmenus,got spicy noodles instead of regular,1,Malak Abd-el-moanim,3 years ago,حصلت علي الشعريه الحاره بدلا من العاديه,negative,negative
+Elmenus,"Very small portion, mostly vegetables. They even mixed a few pieces of fish into my sweet and sour chicken. What if someone has an allergy. Very bad experience this time",2,georg kutsche,3 years ago,جزء صغير جدا  معظمها الخضار لقد اختلطوا بضع قطع من الأسماك في الدجاج الحلو والحامض ماذا لو كان لدي شخص ما حساسيه تجربه سيئه للغايه هذه المره,negative,negative
+Elmenus,"food was okay, but not as hot/fresh as usual as the order was late, and more expensive than the total on the online order for some reason",3,Mariam Kamal,3 years ago,كان الطعام علي ما يرام  ولكن ليس ساخناطازجا كالمعتاد كما كان الأمر متأخرا  وأكثر تكلفه من الإجمالي في الطلب عبر الإنترنت لسبب ما,neutral,negative
+Elmenus,small chicken portions,3,Ahmed Mowafy,3 years ago,أجزاء الدجاج الصغيره,neutral,negative
+Elmenus,Bad food quality,3,Mayar Ahmed,3 years ago,جوده الطعام السيئه,neutral,positive
+Elmenus,sweat ans aour chicken with no chicken just the crust,1,Aliaa Khamis,3 years ago,عرق الجواب دجاج بدون دجاج فقط القشره,negative,negative
+Elmenus,الفراخ مش مستوية، في منتهى الزفارة.. الاكل ملوش طعم كأن اللي عمله بيتعلم الأكل.. بجد الأكل ميتدفعش فيه فلوس,1,Ahmed Al Husseiny,3 years ago,الفراخ مش مستويه في منتهي الزفاره الاكل ملوش طعم كأن اللي عمله بيتعلم الأكل بجد الأكل ميتدفعش فيه فلوس,negative,negative
+Elmenus,Disappointed,2,Ezz Ashour,3 years ago,خائب الأمل,negative,negative
+Elmenus,الاكل كان بارد و سئ جدا و الفراخ زفرة جدا جدا,1,Omnia Mohamed,3 years ago,الاكل كان بارد و سئ جدا و الفراخ زفره جدا جدا,negative,negative
+Elmenus,"the food was cold the packaging was terrible and messy, and the noodles was very very salty, this is not expected from a restaurant like asian corner",3,Menna Ahmed,3 years ago,كان الطعام باردا  وكان العبوه فظيعه وفوضويه  وكانت المعكرونه مالحه للغايه  وهذا ليس متوقعا من مطعم مثل الركن الآسيوي,neutral,negative
+Elmenus,الاكل وحش جدا,1,Mohamed Montaser,3 years ago,الاكل وحش جدا,negative,negative
+Elmenus,حلو بس الارز كان نااشف,3,Mona Mahmoud,3 years ago,حلو بس الارز كان نااشف,neutral,negative
+Elmenus,"Bad experience, اللحمة ناشفة جدا بايتة و الفراخ كمية قليلة جدا و النودلز سبايسي زيادة متتكلش من كتر السبايسي",1,Safaa Hossam,3 years ago,Bad experience اللحمه ناشفه جدا بايته و الفراخ كميه قليله جدا و النودلز سبايسي زياده متتكلش من كتر السبايسي,negative,negative
+Elmenus,للأسف الطلب جه قبل الفطار ب5 دقائق ناقص ولا يوجد وقت لاستكمال البديل اضطريت اروح المطعم اجيب الناقص لوجود ناس عندي مع معزومين. تجربة سيئة,2,Adel Sedki,3 years ago,للأسف الطلب جه قبل الفطار ب5 دقائق ناقص ولا يوجد وقت لاستكمال البديل اضطريت اروح المطعم اجيب الناقص لوجود ناس عندي مع معزومين تجربه سيئه,negative,negative
+Elmenus,"taste not as expected 
+little amount",2,Dina Alm Elden,3 years ago,"طعم ليس كما هو متوقع 
+القليل من المبلغ",negative,negative
+Elmenus,بحبو جدا مكاني المفضل والكمية مقابل السعر حلوه والاكل ديما حلو,5,Aya Ibrahim,3 years ago,بحبو جدا مكاني المفضل والكميه مقابل السعر حلوه والاكل ديما حلو,positive,positive
+Elmenus,الاكل حول بس جي برد ومش سبايسي,3,Totaa Mohammed,3 years ago,الاكل حول بس جي برد ومش سبايسي,neutral,negative
+Elmenus,the noodles were very dry and absolutely tastless and the beef was undercooked. very bad meal altogether 0/10,1,Gana Haitham,3 years ago,كانت المعكرونه جافه للغايه وذات تذوق تماما وكان اللحم البقري غير مطبوخ وجبه سيئه للغايه تماما 010,negative,negative
+Elmenus,كل حاجه كانت حلوه وتحفه الا النودلز السبايسي كان اوفر اوي بس اكيد هيكون حلو لل بيحب الشطه صرف لكن اكل سبايسي مش هيستحملها,4,Noha,3 years ago,كل حاجه كانت حلوه وتحفه الا النودلز السبايسي كان اوفر اوي بس اكيد هيكون حلو لل بيحب الشطه صرف لكن اكل سبايسي مش هيستحملها,positive,negative
+Elmenus,مش اوى,2,Mona Mahmoud,3 years ago,مش اوي,negative,negative
+Elmenus,the food was hot and fresh and the delivery was on time!!,5,Joy Ramez,3 years ago,كان الطعام ساخنا وجديدا وكان التسليم في الوقت المحدد ,positive,positive
+Elmenus,سيء جدا أول مره الاكل يكون مش حلوه كده,1,Nada Youssef,3 years ago,سيء جدا أول مره الاكل يكون مش حلوه كده,negative,negative
+Elmenus,"اوحش اكل طلبته اولا الاوردر جيه متاخر ساعتين وانا عملت شكوى بذلك على منيو  على هذا التأخير
+ثانيا المكرونه بارده ماتتاكلش اصلا ولا عليها اى صوص 
+كل الاكل طلع بارد نتيجه التأخير الى حصل  الاوردر وصل 5 ونصف فبرجاء تعويضى عن الاكل الى تقريبا كان بيتاكل ب...",1,Marian Morise Reda,3 years ago,"اوحش اكل طلبته اولا الاوردر جيه متاخر ساعتين وانا عملت شكوي بذلك علي منيو  علي هذا التأخير
+ثانيا المكرونه بارده ماتتاكلش اصلا ولا عليها اي صوص 
+كل الاكل طلع بارد نتيجه التأخير الي حصل  الاوردر وصل 5 ونصف فبرجاء تعويضي عن الاكل الي تقريبا كان بيتاكل ب",negative,negative
+Elmenus,تأخير  فى وصول الطلب للمطعم و بالتالى تأخير وصوله ليا و الطعام غير ساخن,2,sara yosry,3 years ago,تأخير  في وصول الطلب للمطعم و بالتالي تأخير وصوله ليا و الطعام غير ساخن,negative,negative
+Elmenus,Cold food,3,Rahma,3 years ago,الطعام البارد,neutral,positive
+Elmenus,الاسف الارز الهندي غير جيد تمام. مكنش طازج و الارز كان ناشف  و للاسف غير راضي عن الارز تماما.,2,mohamed,3 years ago,الاسف الارز الهندي غير جيد تمام مكنش طازج و الارز كان ناشف  و للاسف غير راضي عن الارز تماما,negative,negative
+Elmenus,خاطئ,3,rawanyehia,3 years ago,خاطئ,neutral,positive
+Elmenus,بصراحه ممتاز  يارب يبقى كده كل مزه,5,Marian Morise Reda,3 years ago,بصراحه ممتاز  يارب يبقي كده كل مزه,positive,positive
+Elmenus,الاكل بارد,4,Bosy Mohamed,3 years ago,الاكل بارد,positive,positive
+Elmenus,اسوء ابلكيشن و اسوء مطعم و حاجه في منتهي القرف و ابلكيشن حرفيا فاشل و مطعم غير صادق,1,yassmin zoair,3 years ago,اسوء ابلكيشن و اسوء مطعم و حاجه في منتهي القرف و ابلكيشن حرفيا فاشل و مطعم غير صادق,negative,negative
+Elmenus,Too late order and so cold,1,nada,3 years ago,ترتيب متأخر جدا وبارده جدا,negative,negative
+Elmenus,اللحمة مش مستوية خالص غير متوقع و الرز مالح جدا,1,Rozena Sedrak,3 years ago,اللحمه مش مستويه خالص غير متوقع و الرز مالح جدا,negative,negative
+Elmenus,"The menu is outdated
+Beef Soya sauce is not there, so I have to call for an order
+Menu needs a lot of changes.",2,Mai Hosny Ashmawy,3 years ago,"القائمه عفا عليها الزمن
+صلصه الصويا لحوم البقر ليست موجوده  لذلك يجب أن أتصل بطلب
+القائمه تحتاج إلي الكثير من التغييرات",negative,negative
+Elmenus,"Food was delicious, arrived fasted that estimated time, and came very wel packaged and hot :)",5,Menna Raafat,3 years ago,كان الطعام لذيذا  ووصل الصيام الذي يقدر الوقت  وتولي الترحيب الشديد بالتعبئه والساخنه ,positive,negative
+Elmenus,الاكل اتأخر ٤٠ دقيقه و ده بعد مستعجلتهم بجد غير مرشح,1,Ahmed Gad El Sharawy,3 years ago,الاكل اتأخر ٤٠ دقيقه و ده بعد مستعجلتهم بجد غير مرشح,negative,negative
+Elmenus,Not good,3,Nader Nasr,3 years ago,ليس جيدا,neutral,positive
+Elmenus,الاكل حلو وزي المطعم بس وصل حار ياريت يبقي فيه اوبشن اختيار عادي او حار,4,mohamed,4 years ago,الاكل حلو وزي المطعم بس وصل حار ياريت يبقي فيه اوبشن اختيار عادي او حار,positive,negative
+Elmenus,"The food wasn’t fresh at all, the quality and the cleanliness were absolutely terrible there were metal remains in the food",1,Yasmine Mohamed,4 years ago,لم يكن الطعام طازجا علي الإطلاق  كانت الجوده والنظافه فظيعه تماما لوجود بقايا معدنيه في الطعام,negative,negative
+Elmenus,مستواه كان جميل بدأ الطعم يتغير,3,هدير مجدى,4 years ago,مستواه كان جميل بدأ الطعم يتغير,neutral,negative
+Elmenus,Very late delivery! 30 mins late!,4,Jilan,4 years ago,توصيل متأخر جدا 30 دقيقه متأخره,positive,negative
+Elmenus,الاوردر اتاخر,4,Nada Nody,4 years ago,الاوردر اتاخر,positive,negative
+Elmenus,Mat3aam ibn metnakaa mashoftesh waskha kedaa abl kdaaa,1,boudy,4 years ago,Mat3aam ibn metnakaa mashoftesh waskha kedaa abl kdaaa,negative,negative
+Elmenus,Dont ever order delivery food from there trust me,1,boudy,4 years ago,لا تطلب طعام التسليم من هناك ثق بي,negative,negative
+Elmenus,tandoori came cold,4,ali osama,4 years ago,جاء تندوري باردا,positive,negative
+Elmenus,طعمه وحش اوي مش صيني خالص الكواليتي ف الارض,1,Tobbal,4 years ago,طعمه وحش اوي مش صيني خالص الكواليتي ف الارض,negative,negative
+Elmenus,more than perfect the food arrived very hot and the packaging was good,5,Sherihan Mounier,4 years ago,أكثر من الكمال وصل الطعام ساخنا جدا وكانت العبوه جيده,positive,positive
+Elmenus,"مطعم سئ
+تأخير دايم في الاوردرات",1,Ahmed Hussen,4 years ago,"مطعم سئ
+تأخير دايم في الاوردرات",negative,negative
+Elmenus,خدمه سيئة جدا تاخير في الاوردر لاكتر من ساعتين لحد ما يوصل الاكل,1,Fadi Khrat,4 years ago,خدمه سيئه جدا تاخير في الاوردر لاكتر من ساعتين لحد ما يوصل الاكل,negative,negative
+Elmenus,كان ناقص ال سمبوسك إلى فى الوجبة الكبيرة,2,Norhan Nabil Ellicy,4 years ago,كان ناقص ال سمبوسك إلي في الوجبه الكبيره,negative,negative
+Elmenus,الطعم كان سئ للغايه,1,mario raafat,4 years ago,الطعم كان سئ للغايه,negative,negative
+Elmenus,late delivery,3,Israa Elmallah,4 years ago,التسليم المتأخر,neutral,positive
+Elmenus,"المطعم بيدعي أن أكله آسيوي بس أكله أقرب لأكل البيت ""الآسيوي"" ، المكرونة بصويا صوص كانت وحشة والخضار قليل ، أمي بتعرف تعمل مكرونة بصويا أحلى ، فراخ الكاري ملهاش أي علاقة باسمها أصلًا، اللحمة كانت بتشد شويه وصلصتها مش مستاهلة تتاكل من الأساس ، خالية من...",2,Israa Nadi,4 years ago,المطعم بيدعي أن أكله آسيوي بس أكله أقرب لأكل البيت الآسيوي  المكرونه بصويا صوص كانت وحشه والخضار قليل  أمي بتعرف تعمل مكرونه بصويا أحلي  فراخ الكاري ملهاش أي علاقه باسمها أصلا اللحمه كانت بتشد شويه وصلصتها مش مستاهله تتاكل من الأساس  خاليه من,negative,negative
+Elmenus,Late and not hot food,3,Ramy Abdoush,4 years ago,الطعام المتأخر وليس الساخن,neutral,negative
+Elmenus,"the shrimps was a very small quantity compared to the price 
+the bakmi goreng wasn't good at all had so much pepper and very few shrimps",3,Julie Morcos,4 years ago,"كانت الروبيان كميه صغيره جدا مقارنه بالسعر 
+لم يكن Bakmi Goreng جيدا علي الإطلاق  وكان لديه الكثير من الفلفل وعدد قليل جدا من الروبيان",neutral,negative
+Elmenus,Very good 😍😍,5,Mayar Ashraf,4 years ago,جيد جدا ,positive,positive
+Elmenus,تأخر الطلب اكثر من ساعتين,3,Adel Sedki,4 years ago,تأخر الطلب اكثر من ساعتين,neutral,negative
+Elmenus,الطيار اتأخر اوي والاكل وصل بارد,3,Amira Hasan,4 years ago,الطيار اتأخر اوي والاكل وصل بارد,neutral,negative
+Elmenus,"they didn't bring beef teriyaki , just beef and it didn't taste good",3,Yasmina,4 years ago,لم يحضروا اللحم البقري teriyaki  فقط لحوم البقر ولم يتذوق طعمه جيدا,neutral,negative
+Elmenus,cold,3,Mohamed Gwad,4 years ago,بارد,neutral,positive
+Elmenus,Spring rolls were soft no crunch at all.,4,Mahmoud Fayed,4 years ago,كانت لفات الربيع لينه لا أزمه علي الإطلاق,positive,negative
+Elmenus,The food was really bad,2,Mohab,4 years ago,كان الطعام سيئا حقا,negative,negative
+Elmenus,Tooooooooo spicy that we had to throw it away,1,Ahmed Maher,4 years ago,Tooooooooo حار كان علينا أن نرميه بعيدا,negative,negative
+Elmenus,اسواء اكل ممكن تاكل منه الأمل بارد و الكميات عبارة عن عينات   و لا ليه اي علاقة بالكل الاسيوي  عبارة عن عك و دفعت فيه فلوس تجربة سيئة جدا,1,Mervat Kirollos,4 years ago,اسواء اكل ممكن تاكل منه الأمل بارد و الكميات عباره عن عينات   و لا ليه اي علاقه بالكل الاسيوي  عباره عن عك و دفعت فيه فلوس تجربه سيئه جدا,negative,negative
+Elmenus,الاكل كان بارد للاسف,3,Donia Emad,4 years ago,الاكل كان بارد للاسف,neutral,negative
+Elmenus,"كل مرة الحاجة كانت بتيجي فريش
+المرادي السبرينج رولز مزيتة اويييييي بجد 
+والفراخ السويت اند ساور اكنها كانت بايتة 
+انتوا حاجتكوا كويسة ودايما بجيب منكوا بس المرادي تجربة غير موفقة",1,Bassant Ellakany,a month ago,"كل مره الحاجه كانت بتيجي فريش
+المرادي السبرينج رولز مزيته اويييييي بجد 
+والفراخ السويت اند ساور اكنها كانت بايته 
+انتوا حاجتكوا كويسه ودايما بجيب منكوا بس المرادي تجربه غير موفقه",negative,negative
+Elmenus,"I wanted to receive my order from Rafale branch cause the price  and portion I choose match with fine dinning restaurant not fast food. 
+
+The quality and the taste so bad! I hate it 
+Lack of vegetables and sauce in the noodle and I ordered spicy and ...",1,Yara,4 months ago,"أردت أن أتلقي طلبي من فرع Rafale لأن السعر والجزء الذي أختاره مطابقه مع مطعم Fine Dinning وليس الوجبات السريعه 
+
+الجوده والذوق سيء للغايه أنا أكره ذلك 
+قله الخضار والصلصه في المعكرونه وأمرت حار و ",negative,negative
+Elmenus,"طلبت اكتر من مرة قبل كده وكان الاكل لذيذ جدا المره دي الاكل كان مش احسن حاجه النودلز طعمها اخف والترياكي مسكر بزيادة 
+وكمان كان جاي شبه مقلوب ومدلوق 
+وكمان كان في شعره في الاكل 
+اتمني يكون الاكل احسن من كده المره الجايه وانظف .",2,Rahma Mohamed,6 months ago,"طلبت اكتر من مره قبل كده وكان الاكل لذيذ جدا المره دي الاكل كان مش احسن حاجه النودلز طعمها اخف والترياكي مسكر بزياده 
+وكمان كان جاي شبه مقلوب ومدلوق 
+وكمان كان في شعره في الاكل 
+اتمني يكون الاكل احسن من كده المره الجايه وانظف ",negative,negative
+Elmenus,"hello guys I advise to never waste your money on this restaurent I had never taste as bad as this chinese food .
+ I have order 7 dishes non of them was good I didn't
+ even could dated them .
+the chichen has bad taste where u feel nause and all fried ...",1,Joyce Accad,7 months ago,"مرحبا يا رفاق  أنا أنصح أبدا أموالك علي هذا المطاعم لم أتذوق أبدا مثل هذا الطعام الصيني
+ لدي طلب 7 أطباق لم يكن جيدا
+ حتي يمكن أن مؤرخه لهم
+تشيشن لها طعم سيئ حيث تشعر بالغزون وكلها مقليه ",negative,negative
+Elmenus,"I paid for 2 beef teriyaki and sweet and sour chicken with noodles and one spring roll 
+but,they delivered to me one beef teriyaki instead of 2 
+with no refund and no the missed one to be delivered",2,Marihane elshazly,a year ago,"لقد دفعت مقابل 2 لحوم البقر Teriyaki والدجاج الحلو والحامض مع المعكرونه ولفافه الربيع واحده 
+لكنهم سلموا لي لحوم البقر Teriyaki بدلا من 2 
+مع عدم استرداد المبلغ ولا يتم تسليم واحد",negative,negative
+Elmenus,"The food was tasteless and not well cooked.
+The shantong came as if if is a dough, not fried well .
+Total disappointment 👎🏻",1,Menna Shaker,a year ago,"كان الطعام لا طعم له وليس مطبوخ جيدا
+جاء Shantong كما لو كان العجين  وليس المقليه جيدا
+خيبه أمل تامه ",negative,negative
+Elmenus,"I ordered beef spicy 
+And got chicken",3,Ahmed Adel,a year ago,"طلبت لحوم البقر حار 
+وحصلت علي الدجاج",neutral,negative
+Elmenus,"your seat and sour chicken taste much better. I will definitely order again.
+in the past it was not good.
+now you guys have improved the quality of the meal.
+Good job.
+I can tell my friends.
+thank you.",5,gg brown,a year ago,"مقعدك وذوق الدجاج الحامض أفضل بكثير سأطلب بالتأكيد مره أخري
+في الماضي لم يكن جيدا
+الآن يا رفاق قد حسنت جوده الوجبه
+أحسنت
+أستطيع أن أخبر أصدقائي
+شكرا لك",positive,negative
+Elmenus,"Food tasted really bad.
+
+Rice had a weird taste. 
+
+Chicken was obviously not fresh.",1,Jad Jomaa,2 years ago,"ذاقت الطعام سيئه حقا
+
+كان للأرز طعم غريب 
+
+من الواضح أن الدجاج لم يكن جديدا",negative,negative
+Elmenus,"الاكل وصل متأخر تقريبا نص ساعة وساقع اللحمه والرز حتى مش دافيين 
+وحش جدا",2,Nova Kamel,2 years ago,"الاكل وصل متأخر تقريبا نص ساعه وساقع اللحمه والرز حتي مش دافيين 
+وحش جدا",negative,negative
+Elmenus,"plastic on top of hot food directly
+barely any chicken tandoori
+tandoori is very very very salty can go on and on.",1,omar,2 years ago,"البلاستيك فوق الطعام الساخن مباشره
+بالكاد أي دجاج تندوري
+Tandoori هو المالح للغايه يمكن أن يستمر ويستمر",negative,negative
+Elmenus,"Very bad noddles
+Very bad beef and chicken
+The taste is horrible
+Also the food was cold and not fresh
+Very bad experience",1,Mai Atef,2 years ago,"عقيدات سيئه للغايه
+لحوم البقر والدجاج السيئ للغايه
+الذوق فظيع
+كما كان الطعام باردا وليس جديدا
+تجربه سيئه للغايه",negative,negative
+Elmenus,"أول مره الاوردر يطلع سيء ..النودلز وحشه التشكن سويت أند ساور مش طازه الصوص مش كما متعودين عليه ...
+اوردر ضايقنا",1,Rehab ElShenety,2 years ago,"أول مره الاوردر يطلع سيء النودلز وحشه التشكن سويت أند ساور مش طازه الصوص مش كما متعودين عليه 
+اوردر ضايقنا",negative,negative
+Elmenus,"The order came wrong portions was so small. The packing was so messy and the sauce with all over the bag 
+Meat was so uncooked",1,mohamed,2 years ago,"كان الأمر الخطأ الذي حدث خاطئا كان صغيرا جدا كان التعبئه فوضويا جدا والصلصه مع جميع أنحاء الحقيبه 
+كان اللحم غير مطبوخ",negative,negative
+Elmenus,"تسلم رجلك يا شيف على الاكل 
+وايه كميه الكوسه الي في الاكل دي",1,Habiba Abdelmohsen,3 years ago,"تسلم رجلك يا شيف علي الاكل 
+وايه كميه الكوسه الي في الاكل دي",negative,negative
+Elmenus,"The order was good and we’ll delivered, but their is a difference between the what has delivered and what I usually order for mall food cort.
+To sum it up, the order was good 👍🏻",5,Asmaa Halwagy,3 years ago,"كان الطلب جيدا وسنقدمه  لكن الفرق بين ما تم تسليمه وما أطلبه عاده لمول الطعام
+لتلخيص ذلك  كان الطلب جيدا ",positive,negative
+Elmenus,"Very bad 
+Shantong very bad too much oil
+noodles tastes weird  and spicy beef tastes horrible",1,Isabelle Kamal,3 years ago,"سيء جدا 
+شانتونغ سيء للغايه الكثير من الزيت
+الأذواق الأذواق الغريبه والحاره الأذواق الرهيبه",negative,negative
+Elmenus,"Meat wasn't cooked well, so I threw it 
+The noodles weren't ( spicy noodles )
+it was noodles added to it spicy sauce 
+
+spring rolls were bad and empty",1,Passant Ossama,3 years ago,"لم يتم طهي اللحم جيدا  لذا رميته 
+لم تكن الشعريه المعكرونه الحاره
+لقد تمت إضافه شعيريه إلي صلصه حار 
+
+لفات الربيع كانت سيئه وفارغه",negative,negative
+Elmenus,"beef tiryaki was so salty
+noodles was so spicy 
+chicken sweet & sour was so tasteless and dry
+
+unpleasant experience",1,MaYada Kh MokhTar,3 years ago,"كان لحم البقر تيرياكي مالحا جدا
+كانت المعكرونه حار جدا 
+كان الدجاج الحلو والحامض لا طعم له وجاف للغايه
+
+تجربه غير ساره",negative,negative
+Elmenus,"الأكل والله ما يتاكل 
+لو كان اكل قطط يبقى اكرملهم والله",1,Mohamed Abdel Halim,3 years ago,"الأكل والله ما يتاكل 
+لو كان اكل قطط يبقي اكرملهم والله",negative,negative
+Elmenus,"taste not as expected 
+little amount",2,Dina Alm Elden,3 years ago,"طعم ليس كما هو متوقع 
+القليل من المبلغ",negative,negative
+Elmenus,"اوحش اكل طلبته اولا الاوردر جيه متاخر ساعتين وانا عملت شكوى بذلك على منيو  على هذا التأخير
+ثانيا المكرونه بارده ماتتاكلش اصلا ولا عليها اى صوص 
+كل الاكل طلع بارد نتيجه التأخير الى حصل  الاوردر وصل 5 ونصف فبرجاء تعويضى عن الاكل الى تقريبا كان بيتاكل ب...",1,Marian Morise Reda,3 years ago,"اوحش اكل طلبته اولا الاوردر جيه متاخر ساعتين وانا عملت شكوي بذلك علي منيو  علي هذا التأخير
+ثانيا المكرونه بارده ماتتاكلش اصلا ولا عليها اي صوص 
+كل الاكل طلع بارد نتيجه التأخير الي حصل  الاوردر وصل 5 ونصف فبرجاء تعويضي عن الاكل الي تقريبا كان بيتاكل ب",negative,negative
+Elmenus,"The menu is outdated
+Beef Soya sauce is not there, so I have to call for an order
+Menu needs a lot of changes.",2,Mai Hosny Ashmawy,3 years ago,"القائمه عفا عليها الزمن
+صلصه الصويا لحوم البقر ليست موجوده  لذلك يجب أن أتصل بطلب
+القائمه تحتاج إلي الكثير من التغييرات",negative,negative
+Elmenus,"مطعم سئ
+تأخير دايم في الاوردرات",1,Ahmed Hussen,4 years ago,"مطعم سئ
+تأخير دايم في الاوردرات",negative,negative
+Elmenus,"the shrimps was a very small quantity compared to the price 
+the bakmi goreng wasn't good at all had so much pepper and very few shrimps",3,Julie Morcos,4 years ago,"كانت الروبيان كميه صغيره جدا مقارنه بالسعر 
+لم يكن Bakmi Goreng جيدا علي الإطلاق  وكان لديه الكثير من الفلفل وعدد قليل جدا من الروبيان",neutral,negative
+Elmenus,1-الاكل سي جدا جدا جميع اطباق اللحمة والفراخ فيها فقط قطع بصل و جزر عملاقة و فلفل عملاق 2- لا يوجد قطع دجاج و لحمة إلا نادرا ،الصوص مدلوق وواقع خارج باكينج الكرتونه من كل مكان 3- غلط في الاوردر ،طلبنا سمبوسة وجاء اسبرنج رولز عديم المنظر. آخر مرة نطلب,1,Nirmine Nayel,4 years ago,1الاكل سي جدا جدا جميع اطباق اللحمه والفراخ فيها فقط قطع بصل و جزر عملاقه و فلفل عملاق 2 لا يوجد قطع دجاج و لحمه إلا نادرا الصوص مدلوق وواقع خارج باكينج الكرتونه من كل مكان 3 غلط في الاوردر طلبنا سمبوسه وجاء اسبرنج رولز عديم المنظر آخر مره نطلب,negative,negative
+Elmenus,I ordered the food yesterday and today I'm paying for eating it by getting food poisoning.,1,Mahamed Abdul Haleem,4 years ago,أمرت الطعام بالأمس واليوم أدفع مقابل تناوله عن طريق الحصول علي التسمم الغذائي,negative,negative
+Elmenus,The order was very late literally worst experience,1,Rawan Mohamed,4 years ago,كان الأمر متأخرا للغايه في أسوأ تجربه حرفيا,negative,negative
+Elmenus,I refused to receive the order,1,Sameh El-Saeed Abd El-Aziz Ali Abu Zied,4 years ago,رفضت تلقي الطلب,negative,negative
+Elmenus,الاوردر جالي كله غلط و بارد,2,Mariam Ismail,4 years ago,الاوردر جالي كله غلط و بارد,negative,negative
+Elmenus,the chicken korma was just onion!! all onion and no chicken at all and this is the second time it happened! we hated it!,2,Asma Diab,4 years ago,كان الدجاج كورما مجرد البصل  كل البصل وليس الدجاج علي الإطلاق وهذه هي المره الثانيه التي يحدث فيها كرهنا ذلك,negative,negative
+Elmenus,الاكل بارد، مش سبايسي، الرولز مخززة، وحاطين حجات مش طلباها بدل الي طلباها.,1,روآن عمرو زكي,4 years ago,الاكل بارد مش سبايسي الرولز مخززه وحاطين حجات مش طلباها بدل الي طلباها,negative,negative
+Elmenus,order wasnt delivered and it was specified as delivered after 2 hours of waiting,1,Omar Ayman,4 years ago,لم يتم تسليم الطلب وتم تحديده بعد تسليمه بعد ساعتين من الانتظار,negative,negative
+Elmenus,Chicken sweet and sour was with ketchup sauce not sweet and sour sauce!! Why so cheap!,1,nourhan,4 years ago,كان الدجاج الحلو والحامض مع صلصه الكاتشب ليست صلصه حلوه وحامضه  لماذا رخيصه جدا,negative,negative
+Elmenus,النودلز كانت بايظه؟!,1,Aya Amr,4 years ago,النودلز كانت بايظه,negative,negative
+Elmenus,Excellent,5,Mohamed Alaa,4 years ago,ممتاز,positive,positive
+Elmenus,delicious food as usual but late delivery 01hr more than the estimate time.,4,Maha Ashkar,4 years ago,طعام لذيذ كالمعتاد ولكن التسليم المتأخر 01 ساعه أكثر من وقت التقدير,positive,positive
+Elmenus,تجربة سيئة جدا والاكل طعمه وحش جداااا,2,habiba,4 years ago,تجربه سيئه جدا والاكل طعمه وحش جداااا,negative,negative
+Elmenus,أكل تحفة و طعمه جميل جدا  و التغليف كويس جدا جدا,5,Mohamed Sherif,4 years ago,أكل تحفه و طعمه جميل جدا  و التغليف كويس جدا جدا,positive,negative
+Elmenus,كل الوجبات كانت من غير ال سبرنج رول !,3,Mera Atef,4 years ago,كل الوجبات كانت من غير ال سبرنج رول ,neutral,negative
+Elmenus,I love the experience,5,hadeel medhat,4 years ago,أنا أحب التجربه,positive,positive
+Elmenus,there is only 1 comment regarding spoons and folks there was non,5,Ayman Elsharkawy,4 years ago,لا يوجد سوي تعليق واحد بشأن الملاعق والأشخاص هناك غير,positive,negative
+Elmenus,"40 EGP for delivery to west somid , too much for such poor quality",1,Radwa El Moghazy,4 years ago,40 EGP للتسليم إلي West Somid  الكثير من هذه الجوده الرديئه,negative,negative
+Elmenus,"there were no sauce, only one chopstick, before the service was much better it's about 3 times now things getting worse. hopefully, the food will not become worse as these things",1,Ahmed Abbas Al-Tonsi,4 years ago,لم تكن هناك صلصه  فقط عيدان واحد  قبل أن تكون الخدمه أفضل بكثير  حوالي 3 مرات الآن تزداد الأمور سوءا نأمل أن يصبح الطعام أسوأ مثل هذه الأشياء,negative,negative
+Elmenus,لا علاقه له بالاكل الصيني و الهوت اند ساور سوب ميه غسيل و صوص السويت اند ساور ميه ...خساره فيكم فلوسي و سبرنج رولز مقليه بزيت قديم.مستواكم بقي خرا.,1,Sally M Angelworks,4 years ago,لا علاقه له بالاكل الصيني و الهوت اند ساور سوب ميه غسيل و صوص السويت اند ساور ميه خساره فيكم فلوسي و سبرنج رولز مقليه بزيت قديممستواكم بقي خرا,negative,negative
+Elmenus,"you guys use fettuccine pasta and call it noodles!😂 like, no comment honestly.",2,Chahnaz Elkordy,4 years ago,يا رفاق تستخدم المعكرونه فيتوتشين وتسميها المعكرونه  مثل  لا تعليق بصراحه,negative,negative
+Elmenus,superb as usual.,5,Maha Ashkar,4 years ago,رائع كالمعتاد,positive,positive
+Elmenus,Exceeded my expectations!,5,Samar Morsy,4 years ago,تجاوزت توقعاتي,positive,negative
+Elmenus,كميتها قليله,3,Mostafa Mohammed,4 years ago,كميتها قليله,neutral,negative
+Elmenus,"كله طعمه عادي
+ ويمكن سئ زي الفراخ الاتندوري ولحمه الكارى 
+ولكن فراخ السيشوان جميلة جدا",4,Seif El-Deen,4 years ago,"كله طعمه عادي
+ ويمكن سئ زي الفراخ الاتندوري ولحمه الكاري 
+ولكن فراخ السيشوان جميله جدا",positive,negative
+Elmenus,"الفراخ بايته بوظت طعم النودلز
+الدمبلينج طعمه مش حلو",2,Riham Nour,4 years ago,"الفراخ بايته بوظت طعم النودلز
+الدمبلينج طعمه مش حلو",negative,negative
+Elmenus,الطعم جميل,2,Mahmoud El Adwye,4 years ago,الطعم جميل,negative,positive
+Elmenus,"١- الأوردر جه غلط و اضطريت آكل سبايس عشان ما استناش تاني
+٢- النودلز كانت مجلدة و مالهاش طعم
+٣- السويت اند ساور كله خضار و مهري 
+٤- واضح جدا ان الاكل مش طازة و معمول من بدري بس اتسخن قبل ما يتبعت",1,Islam Elgohary,4 years ago,"١ الأوردر جه غلط و اضطريت آكل سبايس عشان ما استناش تاني
+٢ النودلز كانت مجلده و مالهاش طعم
+٣ السويت اند ساور كله خضار و مهري 
+٤ واضح جدا ان الاكل مش طازه و معمول من بدري بس اتسخن قبل ما يتبعت",negative,negative
+Elmenus,الاكل كان طعمه حلو وسخن بس المشكلة ان معظم الportion كان كوسة و الكميات كانت قليلة,3,Hussein Ashraf,4 years ago,الله عون طubheh,neutral,negative
+Elmenus,no,5,Andrew Rashad,4 years ago,لا,positive,positive
+Elmenus,"worst food ever ,bad packaging, cold meal",1,mohamed,4 years ago,أسوأ طعام علي الإطلاق  عبوات سيئه  وجبه بارده,negative,negative
+Elmenus,"I did not like the teriaki chicken . I am disappointed this time. 
+Too sweet , chicken was too hard. 
+Did not enjoy it at all",3,amira,4 years ago,"لم أحب دجاج تيرياكي أشعر بخيبه أمل هذه المره 
+حلو جدا  كان الدجاج صعبا جدا 
+لم يستمتع بها علي الإطلاق",neutral,negative
+Elmenus,الاوردر طعمه يقرف فراخ طريه جدا وملهاش طعم الرز البسمتي معجن بطريقه مقرفه بجد اوحش اكل,1,Maram Ahmed,4 years ago,الاوردر طعمه يقرف فراخ طريه جدا وملهاش طعم الرز البسمتي معجن بطريقه مقرفه بجد اوحش اكل,negative,negative
+Elmenus,بيرفض الطلب مع اني في مدينه نصر قريب منه,1,Mustafa Halawa,4 years ago,بيرفض الطلب مع اني في مدينه نصر قريب منه,negative,negative
+Elmenus,"Very very late delivery… 
+Not delivered till now.",1,Aly E. Gamaleldin,4 years ago,"توصيل متأخر جدا  
+لم يتم تسليمها حتي الآن",negative,negative
+Elmenus,👍👍👍,5,Maha Ashkar,4 years ago,,positive,positive
+Elmenus,"the order was so bad ,i ordered many times before and it was perfect but this time everything was extremely bad",2,Doaa Ali,4 years ago,كان الأمر سيئا للغايه  لقد طلبت عده مرات من قبل وكان مثاليا ولكن هذه المره كان كل شيء سيئا للغايه,negative,negative
+Elmenus,مصاريف التوصيل اكتر ب ٤ اضعاف اللى ع الابليكيشن,1,Magy Yehya,4 years ago,مصاريف التوصيل اكتر ب ٤ اضعاف اللي ع الابليكيشن,negative,negative
+Elmenus,الأكل بارد جدا و وحش جدا,1,Faiza Karam,4 years ago,الأكل بارد جدا و وحش جدا,negative,negative
+Elmenus,اسوا مكان طلبته منه   اولاً اتصلوا يقولوا فيه زيادة علشان التوصيل و بعدين الاكل جه كله مدلوق. التغلفه رديئه جداً.  النودلز جات حمضانه. الدامبلينجز مش زي الصوره خالص. انا حاسس كاني طلبت من مطعم من تحت الكوبري. خسارة الفلوس و الوقت اغلب الاكل اترمي,1,Mohamed Abdalla,4 years ago,اسوا مكان طلبته منه   اولا اتصلوا يقولوا فيه زياده علشان التوصيل و بعدين الاكل جه كله مدلوق التغلفه رديئه جدا  النودلز جات حمضانه الدامبلينجز مش زي الصوره خالص انا حاسس كاني طلبت من مطعم من تحت الكوبري خساره الفلوس و الوقت اغلب الاكل اترمي,negative,negative
+Elmenus,تأخر,4,Yahia Zaian,4 years ago,تأخر,positive,positive
+Elmenus,جيالى الصوص كله واقع ف الكيس,5,ranona fouad,4 years ago,جيالي الصوص كله واقع ف الكيس,positive,negative
+Elmenus,,5,Heba El Feky,4 years ago,داخل,positive,positive
+Elmenus,Thanks,4,Alaa K. Alashry,4 years ago,شكرا,positive,positive
+Elmenus,3 hours to finally receive a wrong order!!,1,Alaa Mostafa,4 years ago,3 ساعات لتلقي أخيرا أمر خاطئ ,negative,negative
+Elmenus,And my problem not solving till nw,1,alaa mohieeldien,4 years ago,ومشكلتي لا تحل حتي NW,negative,negative
+Elmenus,"food was awful   chicken was as hard as a rock , sauce is not there. and the other chicken masala was just vegetables no chicken in there. it is awful",1,Hadeer Khaled,4 years ago,كان الطعام فظيعا كان الدجاج صعبا مثل الصخره  والصلصه ليست موجوده وكان الدجاج ماسالا الآخر مجرد الخضروات لا يوجد دجاج هناك إنه أمر فظيع,negative,negative
+Elmenus,الشوربه مرا مو لزيز وله مشطش ولي اي بهارات,3,Asoo. star,4 years ago,الشوربه مرا مو لزيز وله مشطش ولي اي بهارات,neutral,negative
+Elmenus,أسوء مرة و آخر مره اطلب منه,1,Amr Talaat,4 years ago,أسوء مره و آخر مره اطلب منه,negative,negative
+Elmenus,The food wasn’t hot at all,2,passanthassan,4 years ago,لم يكن الطعام ساخنا علي الإطلاق,negative,negative
+Elmenus,"The foood wass soo so badd, it tastes awful.",1,Hadeel,4 years ago,و wass wass soo badd جدا  طعمها فظيعه,negative,negative
+Elmenus,زفت,1,Hossam Sorour,4 years ago,زفت,negative,negative
+Elmenus,perfect,5,Sahar Elbehery,4 years ago,ممتاز,positive,positive
+Elmenus,التغليف كان هايل الاكل فضل سخن لحد الفطار والاكل طعمه معقول بس في صنف جه غلط في الوجبة وشوربة الفراخ كريمة وحشة آوي اوي,3,Ali Mohamed,4 years ago,التغليف كان هايل الاكل فضل سخن لحد الفطار والاكل طعمه معقول بس في صنف جه غلط في الوجبه وشوربه الفراخ كريمه وحشه آوي اوي,neutral,negative
+Elmenus,الاكل مالح جدا جدا 😞,1,Joseph Stifler,4 years ago,الاكل مالح جدا جدا ,negative,negative
+Elmenus,Awful,1,Rasha Gohar,4 years ago,مريع,negative,negative
+Elmenus,I'm a big fan of asian corner but the food was weird and veryyyyyy bad,1,Nuran Abdullah,4 years ago,أنا معجب كبير بالركن الآسيوي ولكن الطعام كان غريبا وسريا للغايه,negative,negative
+Elmenus,مطعم زي الزفت معندوش اي مسؤلية ولا يقدر وقت العميل بعد ماطلبت الاورد ووافقو عليه رفضوه بعد ثلث ساعه مش في اول الاوردر طبعا  ويقولو خارج نطاق التوصيل ازاي وهما موافقين عليه,1,Jolya Safy,4 years ago,مطعم زي الزفت معندوش اي مسؤليه ولا يقدر وقت العميل بعد ماطلبت الاورد ووافقو عليه رفضوه بعد ثلث ساعه مش في اول الاوردر طبعا  ويقولو خارج نطاق التوصيل ازاي وهما موافقين عليه,negative,negative
+Elmenus,something missing,3,Belal El Gohary,4 years ago,شيء مفقود,neutral,negative
+Elmenus,الاكل مجاش اصلا,1,amgad,4 years ago,الاكل مجاش اصلا,negative,negative
+Elmenus,suuuuper 👍👍👍,5,Maha Ashkar,4 years ago,suuuuper ,positive,negative
+Elmenus,tastes horrible,2,Rokia Muhammed,4 years ago,الأذواق الرهيبه,negative,negative
+Elmenus,all was perfect as usual.,5,Maha Ashkar,4 years ago,كان كل شيء مثاليا كالمعتاد,positive,positive
+Elmenus,Amount ans sauce is less than in dine-in,5,Simone Emad,4 years ago,صلصه الإجابه هي أقل من تناول الطعام في تناول الطعام,positive,negative
+Elmenus,The food was nearly cold and the noodles were almost without vegetables and sauce,3,Take A Chonce,4 years ago,كان الطعام باردا تقريبا وكانت المعكرونه تقريبا بدون خضروات وصلصه,neutral,negative
+Elmenus,Ok,4,Ahmed Monis,4 years ago,نعم,positive,positive
+Elmenus,Hair found in my order,1,walid Emad,4 years ago,شعر في طلبي,negative,negative
+Elmenus,Noodles were very salty,1,Miar Elian,4 years ago,كانت المعكرونه مالحه للغايه,negative,negative
+Elmenus,Food came soggy,5,dshallaby,4 years ago,جاء الطعام فطير,positive,positive
+Elmenus,ينفع تفتحو بدري شويه 🙊❤️ و الدليفري يوصل اسرع,5,reham khalf,4 years ago,ينفع تفتحو بدري شويه  و الدليفري يوصل اسرع,positive,negative
+Elmenus,"الاوردر جه غلط طالبين ارز جايلين نودلز 
+طالبين سمبوسك جه بدالها spring rolls
+و حتي الnoodles مش fresh .",2,Cherouk Hatem,4 years ago,"elawsr jae jae taliban jailin nodlas currency 
+طالبوس Symbocele Jae Spring Rolls
+وحتي loodles شبكه جديده",negative,negative
+Elmenus,بجد برافو و ما شاء الله حاجة تقرف و خليتونى ارجع و ارمى الاكل .. استمروا,1,omar samak,4 years ago,بجد برافو و ما شاء الله حاجه تقرف و خليتوني ارجع و ارمي الاكل  استمروا,negative,negative
+Elmenus,"so bad taste,quality and timing it arrived in hours qnd the customer service guy was horrible",2,Asma Diab,4 years ago,طعم سيئ للغايه وجوده وتوقيت وصلت في ساعات QND كان رجل خدمه العملاء فظيعا,negative,negative
+Elmenus,"Not fresh neither hot, very bad experience",1,Esraa Khaled,4 years ago,ليست طازجه لا تجربتها الساخنه السيئه للغايه,negative,negative
+Elmenus,The food wa cold and tasted really bad,1,Nihal M. ElRamly,4 years ago,الطعام البارد وتذوقه سيئا حقا,negative,negative
+Elmenus,"and 45 egp delivery feez ??!!!!!!! why 
+toooooooo much",3,Safy Ahmed,4 years ago,"و 45 EGP تسليم FERZ   لماذا 
+جدا جدا",neutral,negative
+Elmenus,they didn't deliver me exactly what i wanted ..a whole meal was changed,3,Nourhan Hisham,4 years ago,لم يسلموني بالضبط ما أردت  تم تغيير وجبه كامله,neutral,negative
+Elmenus,.,5,Saleh Torky Saleh,4 years ago,,positive,positive
+Elmenus,"كل ما اطلب حاجه بتبقي  مش موجوده و لما تكلمهم يقولك لازم الاوردر يعدي 100 جنيه 
+حاجه مش مفهومه يعني ؟؟",1,Shady Moawed,4 years ago,"كل ما اطلب حاجه بتبقي  مش موجوده و لما تكلمهم يقولك لازم الاوردر يعدي 100 جنيه 
+حاجه مش مفهومه يعني ",negative,negative
+Elmenus,The food quality was poor and not as good as in restaurant,1,Dina El-Hussieny,5 years ago,كانت جوده الطعام سيئه وليست جيده كما في المطعم,negative,negative
+Elmenus,Very bad experience,1,Mayadaa Saleh,5 years ago,تجربه سيئه للغايه,negative,negative
+Elmenus,"Took 2 hrs for the order to be delivered 
+Second time in a row",2,Mostafa,5 years ago,"استغرق ساعتين حتي يتم تسليم الطلب 
+المره الثانيه علي التوالي",negative,negative
+Elmenus,"Excellent! First time and not the last ! 
+PleAse put level options for Spicy ;)
+Rolls were ok but unfortunately for me they had “cardamon” and very apparent .",5,amira,5 years ago,"ممتاز أول مره وليس آخر 
+يرجي وضع خيارات المستوي للحار 
+كانت رولز علي ما يرام ولكن للأسف بالنسبه لي كان لديهم الهيل واضحه للغايه",positive,negative
+Elmenus,كويس,5,Monica Medhat,5 years ago,كويس,positive,positive
+Elmenus,صوص اللحمه كان مدلوق و الصوصات دخلت فى بعضها يجب على الشخص المستلم للاوردر ان يحذر و ياتى بالاوردر كما هو بدون ميل الاوردر او تحريكه,3,marwa,5 years ago,صوص اللحمه كان مدلوق و الصوصات دخلت في بعضها يجب علي الشخص المستلم للاوردر ان يحذر و ياتي بالاوردر كما هو بدون ميل الاوردر او تحريكه,neutral,negative
+Elmenus,great taste.. quality and fair quantity .. fresh and warm .. delivered in time. as usual.,5,Maha Ashkar,5 years ago,طعم رائع  الجوده والكميه العادله  طازجه ودافئه  تم تسليمها في الوقت المناسب كالعاده,positive,negative
+Elmenus,"The order delivered wrong items, packaging was very poor as the items was mixed and it came late.",1,Akram Gamea,5 years ago,تم تسليم الطلب عناصر خاطئه  وكانت التغليف سيئه للغايه حيث تم خلط العناصر وتأخرت,negative,negative
+Elmenus,Great food,5,hossam mahmoud,5 years ago,طعام رائع,positive,positive
+Elmenus,very good .. easy order proceeding.. delicious food .. delivery in time .. it  was a great experience in general for 1st time order and won't be the last.,5,Maha Ashkar,5 years ago,جيد جدا  من السهل إجراء طلب  طعام لذيذ  التسليم في الوقت المناسب  لقد كانت تجربه رائعه بشكل عام لترتيب الوقت الأول ولن يكون الأخير,positive,positive
+Elmenus,noodels not hot & every thing is good,4,Mohamed M. Ahmed,5 years ago,المعكرونه ليست ساخنه وكل شيء جيد,positive,positive
+Elmenus,5as w2t kter 3shan l order twsl,5,Ahmed Mostafa,5 years ago,5as w2t kter 3shan l order twsl,positive,negative
+Elmenus,Tastiest Asian food I’ve tried in Egypt. Everything was perfect. Ingredients were great quality. Value for money and super-quick delivery !,5,Emma,5 years ago,طعم الطعام الآسيوي الذي جربته في مصر كان كل شيء مثاليا كانت المكونات جوده رائعه قيمه مقابل المال والتسليم السريع للغايه,positive,negative
+Elmenus,delicious,5,Samaa Mugahd,5 years ago,لذيذ,positive,positive
+Elmenus,this is not asian food by any means necessary...,2,ayman,5 years ago,هذا ليس طعاما آسيويا بأي وسيله ضروريه ,negative,negative
+Elmenus,taste less meal,1,Mohamed Sa3d,5 years ago,تذوق وجبه أقل,negative,negative
+Elmenus,جرب ٣ اصناف من المنيو كلهم اسوأ من بعض الاكل بجد مالوش طعم,1,Mohamed Sa3d,5 years ago,جرب ٣ اصناف من المنيو كلهم اسوأ من بعض الاكل بجد مالوش طعم,negative,negative
+Elmenus,الدليفري مغالي فية جدا ٣٠ جنية لية علشان توصيل لأرض الجولف,1,Christine Mounir Anis,5 years ago,الدليفري مغالي فيه جدا ٣٠ جنيه ليه علشان توصيل لأرض الجولف,negative,negative
+Elmenus,"The noodles was tasteless also there is no sauce in the sweet and sour chicken , I've always loved Asian corner so I'm really disappointed with the quality of food",2,Dina Eissa,5 years ago,كانت المعكرونه لا طعم لها أيضا لا توجد صلصه في الدجاج الحلو والحامض  لقد أحببت دائما الركن الآسيوي  لذا أشعر بخيبه أمل حقا من جوده الطعام,negative,negative
+Elmenus,alakl kan bard,1,Ahmad Adel,5 years ago,يمكن أن عاريه,negative,negative
+Elmenus,Very bad customer service..they too long to deliver,1,Idris,5 years ago,خدمه عملاء سيئه للغايه  إنها طويله جدا لتسليمها,negative,negative
+Elmenus,bad,1,Hassan Moustafa,5 years ago,سيء,negative,negative
+Elmenus,الباكج و العلب الي بييجي فيها الاكل ضعيفه جدا,4,Youssef Gado,5 years ago,الباكج و العلب الي بييجي فيها الاكل ضعيفه جدا,positive,negative
+Elmenus,كنت جايبه اوردر سوبر مهراجا اتنين بيف سبايسي واخر صنف مختاره تشيكن سيشوان لقيت جايبينلي التلاته بيف ومفيش واحده تشيكن وده غلط بايخ.. بس الاكل طعمه حلو وكدة كدة انا بحب اكل من عند اشيان دايماً,3,Bassant Alaa,5 years ago,كنت جايبه اوردر سوبر مهراجا اتنين بيف سبايسي واخر صنف مختاره تشيكن سيشوان لقيت جايبينلي التلاته بيف ومفيش واحده تشيكن وده غلط بايخ بس الاكل طعمه حلو وكده كده انا بحب اكل من عند اشيان دايما,neutral,negative
+Elmenus,zy zeft,1,Ahmed Tarek,5 years ago,زيف زيف,negative,negative
+Elmenus,rice was flavourless,4,Bassant Yasser,5 years ago,كان الأرز بلا نكهه,positive,negative
+Elmenus,packaging wasn't good but the taste was okay.,4,Mai Esawy,5 years ago,التعبئه لم تكن جيده ولكن الذوق كان علي ما يرام,positive,negative
+Elmenus,Super super super,5,Nesma Basha,5 years ago,سوبر سوبر,positive,positive
+Elmenus,تحفه,5,Ahmed أحمد Elheliely بودي الهليلي,5 years ago,تحفه,positive,negative
+Elmenus,الطعم سئ جدا ، توابل كتير اوفر عشان تغطي عالطعم ، زيت كتير جدا عالنودلز، كميات قليلة جدا تعتبر عينات ، حقيقي تجربة سيئة جدا,1,mohamed alsetouhy,5 years ago,الطعم سئ جدا  توابل كتير اوفر عشان تغطي عالطعم  زيت كتير جدا عالنودلز كميات قليله جدا تعتبر عينات  حقيقي تجربه سيئه جدا,negative,negative
+Elmenus,"I ordered the chicken noodles and chicken scheuan the portion is very very small, there were only 5 small pieces of chicken I think this was supposed to be a main course while it’s barely an appetizer and not even tasty just average",1,Nour AlAassal,5 years ago,لقد طلبت شعيريه الدجاج والدجاج Scheuan الجزء صغير جدا جدا  لم يكن هناك سوي 5 قطع صغيره من الدجاج  وأعتقد أن هذا كان من المفترض أن يكون مسارا رئيسيا في حين أنه لا يكاد يكون مقبلات ولا حتي لذيذ متوسط,negative,negative
+Elmenus,اول مرة اشوف حد بيحط كيلو زيت على نودلز لفرد واحد..كنت حرجع من القرف و رميتها في الاخر. اللحمة مش مستوية كويس خالص و التوابل مبالغ فيها و مؤذية للبطن و لو ان و انا باكل حسيت البلاستيك ليه طعم احلى. تجربة زفت مش حعملها تاني,1,Youssef Abdulkader,5 years ago,اول مره اشوف حد بيحط كيلو زيت علي نودلز لفرد واحدكنت حرجع من القرف و رميتها في الاخر اللحمه مش مستويه كويس خالص و التوابل مبالغ فيها و مؤذيه للبطن و لو ان و انا باكل حسيت البلاستيك ليه طعم احلي تجربه زفت مش حعملها تاني,negative,negative
+Elmenus,"WORST FOOD I ATE IN MY LIFE! I ordered today a meal and it was bland, smelling weird and the food was chewy!!! do not order. I ordered at 3 to avoid any hustle or bad service and wasn't expecting this! disastrous",1,Nicole,5 years ago,أسوأ طعام أكلته في حياتي طلبت اليوم وجبه وكانت لطيفه  رائحه غريبه والطعام كان مطاطيه  لا تطلب أمرت في الثالثه بتجنب أي صخب أو خدمه سيئه ولم أكن أتوقع ذلك كارثي,negative,negative
+Elmenus,"Very bad food experience Ever. Tanddori, Carry and sweet & sour el3 2bsh3 mn b3d",1,Noha Yosry,5 years ago,تجربه طعام سيئه للغايه من أي وقت مضي Tanddori  Carry and Sweet  Sour EL3 2BSH3 MN B3D,negative,negative
+Elmenus,الأكل عادى مش وحش و مش حلو و فى حاجة كانت مستفزة ان الشوك اللى منزلها صغيرة جدا و ضايقتنى و انا باكل بيها,3,Basma Ahmed,5 years ago,الأكل عادي مش وحش و مش حلو و في حاجه كانت مستفزه ان الشوك اللي منزلها صغيره جدا و ضايقتني و انا باكل بيها,neutral,negative
+Elmenus,الكميات كويسة بس نصيحة محدش يجيب لحمة خالص حسيت وربنا انها مش طبيعية و مليانة دهون و جلد بيشد كدا الصوص بتاعها بصراحة خطير لكن اللحمة نفسها تترمي فالزبالة و حسيت الفراخ فيها شوية زفارة يعني انا بجيب الاكل من الفرع انضف من كدا بصراحة النودلز مفيهاش ري...,2,Nada Zedan,5 years ago,الكميات كويسه بس نصيحه محدش يجيب لحمه خالص حسيت وربنا انها مش طبيعيه و مليانه دهون و جلد بيشد كدا الصوص بتاعها بصراحه خطير لكن اللحمه نفسها تترمي فالزباله و حسيت الفراخ فيها شويه زفاره يعني انا بجيب الاكل من الفرع انضف من كدا بصراحه النودلز مفيهاش ري,negative,negative
+Elmenus,اكل مقرف جدا جدا جدا .. الجودة اقل من الحضيض.   والزيت اللى اتقلى فيه السبرينج رولز .. ريحته زى ريحة الشغالات  شيئ فعلا مقرف جدا جدا وعرة.. انا كنت عايزة احط من غير ولا نجمة  لكن للاسف مش مصرح غير على الأقل نجمة واحدة ... الاكل انت رميته فى الزبالة ....,1,Maha Yahia,5 years ago,اكل مقرف جدا جدا جدا  الجوده اقل من الحضيض   والزيت اللي اتقلي فيه السبرينج رولز  ريحته زي ريحه الشغالات  شيئ فعلا مقرف جدا جدا وعره انا كنت عايزه احط من غير ولا نجمه  لكن للاسف مش مصرح غير علي الأقل نجمه واحده  الاكل انت رميته في الزباله ,negative,negative
+Elmenus,"For the second time i make an and after its accepted i get a phone call telling me that one or more item from what i picked aren't available and i should choose alternatives, i don't want alternatives, if you don't offer a certain item just remove it...",3,jamal s,5 years ago,للمره الثانيه أقوم بإنشاء وبعد قبولها  تلقيت مكالمه هاتفيه تخبرني أن عنصرا أو أكثر من ما اخترته غير متوفر  ويجب أن أختار البدائل  لا أريد بدائل  إذا لم تقدم عنصرا معينا فقط إزالته ,neutral,negative
+Elmenus,"The food isn’t warm, not tasty and little proportions",1,Farah Elshebiny,6 years ago,الطعام ليس دافئا وليست نسبا لذيذه,negative,negative
+Elmenus,الاكل طعمه وحش اوى مينفعش يتاكل............,1,Abdelrahman Mahmoud,6 years ago,الاكل طعمه وحش اوي مينفعش يتاكل,negative,negative
+Elmenus,"Very good food and speed delivery, the shrimp curry is the best (y)",5,سلمى عبد المنعم,6 years ago,طعام جيد جدا وتسليم السرعه  كاري الروبيان هو الأفضل Y,positive,positive
+Elmenus,المبلغ جه اكتر زايد عن فاتوره مينيوز.....,3,Ayman A. Abd El-moniem,6 years ago,المبلغ جه اكتر زايد عن فاتوره مينيوز,neutral,negative
+Elmenus,بيجي متأخر والاكل بيبقى بارد جدا وياريت بيجي الorder صح لازم يكون في غلطة,1,Mohamed Sobhy,6 years ago,بايو ميتور وتل ببايب باردد آدا,negative,negative
+Elmenus,طلبت دلڤري الاكل وصلني سخن جداً و قبل المعاد و متقفل كويس اوي .. الكميات كبيرة و طعمها حلو اوي,5,Lina Maher,6 years ago,طلبت دلڤري الاكل وصلني سخن جدا و قبل المعاد و متقفل كويس اوي  الكميات كبيره و طعمها حلو اوي,positive,negative
+Elmenus,"Size of portion is ridiculous! More than 70 pounds for meal with shrimps and fish and I get 4 shrimps, few pieces of fish and tiny portion of rice/pasta. Meal is totally not worth the money. Never gonna order again.",1,Olga,6 years ago,حجم الجزء مثير للسخريه أكثر من 70 رطلا للوجبه مع الروبيان والأسماك وأحصل علي 4 روبيان  وبعض القطع من الأسماك وجزء صغير من الأرزالمعكرونه وجبه لا تستحق المال تماما لن تطلب مره أخري,negative,negative
+Elmenus,الفراخ معجنه و مش مظبوطه محتاجه تبقي ماسكه شوايه,2,Seif Mohamed,6 years ago,الفراخ معجنه و مش مظبوطه محتاجه تبقي ماسكه شوايه,negative,negative
+Elmenus,الطعم رائع و الكميات كبيرة و المكونات تامة النضج و السعر مناسب و خدمة التوصيل ممتازة...,5,Nouran Ahmad,6 years ago,الطعم رائع و الكميات كبيره و المكونات تامه النضج و السعر مناسب و خدمه التوصيل ممتازه,positive,positive
+Elmenus,أسوء إدارة و مفيش اي مسؤلية طلبت اوردار و كلموني بعد ساعتين انه لسه قدامهم ساعة و نصف كمان عقبال ما يوصل !!!!!!,1,Mina Arsan,6 years ago,أسوء إداره و مفيش اي مسؤليه طلبت اوردار و كلموني بعد ساعتين انه لسه قدامهم ساعه و نصف كمان عقبال ما يوصل ,negative,negative
+Elmenus,مطعم سئ جدا في الديليفري ضارب الديلفيري في ٢ من غير سبب,1,Mohammed Adel,6 years ago,مطعم سئ جدا في الديليفري ضارب الديلفيري في ٢ من غير سبب,negative,negative
+Elmenus,"Excellent sushi! very fresh and very tasty!
+chicken sweet and sour is the best in egypt.
+the service is great and the place is very clean.
+I am always very happy to eat there :)",5,Karim Maher,6 years ago,"سوشي ممتازه طازج جدا ولذيذ جدا
+الدجاج الحلو والحامض هو الأفضل في مصر
+الخدمه رائعه والمكان نظيف للغايه
+أنا دائما سعيد جدا لتناول الطعام هناك ",positive,negative
+Elmenus,واحد من اسوء المطاعم كلمة قذر قليلة عليه انا جالى تسمم من المطعم ده,1,Kareem,6 years ago,واحد من اسوء المطاعم كلمه قذر قليله عليه انا جالي تسمم من المطعم ده,negative,negative
+Elmenus,الاكل متوسطة الطعام معقول تاخير اللورد بارد,3,Karim ahamad,6 years ago,الاكل متوسطه الطعام معقول تاخير اللورد بارد,neutral,negative
+Elmenus,"shrip soup has exactly 6 small shrimps the cream is too light in the soup and its was not tastu.
+nasi goreng rice has exactly 2 shrimps and rice was not well done!!!
+sweet and sour fish has exactly 7 small pieces of fish that tastes the worst.
+
+don't...",1,aaa,6 years ago,"يحتوي حساء الشريب علي 6 روبيان صغير تماما  والكريمه خفيفه للغايه في الحساء ولم يكن تذوقها
+Nasi Goreng Rice لديه بالضبط 2 روبيان ولم يكن الأرز جيدا 
+تحتوي الأسماك الحلوه والحامضه علي 7 قطع صغيره من الأسماك التي تتذوق الأسوأ
+
+لا",negative,negative
+Elmenus,"التعامل سئ جدا جدا جدا في الدليفري 
+اول المكالمة يسأل على العنوان و يبلغني انه قدامه ساعتين من قبل ما ياخد الاوردر عشان مفيش طيارين دلوقتي هما 2 بس و ال 2 طلعوا اوردرات بلغتها اني موافق يقولي بس هيتأخر اوي .. اسلوب تطفيش لعدم الطلب من عندهم 
+اسوأ خدم...",1,mohamed ibrahim,6 years ago,"التعامل سئ جدا جدا جدا في الدليفري 
+اول المكالمه يسأل علي العنوان و يبلغني انه قدامه ساعتين من قبل ما ياخد الاوردر عشان مفيش طيارين دلوقتي هما 2 بس و ال 2 طلعوا اوردرات بلغتها اني موافق يقولي بس هيتأخر اوي  اسلوب تطفيش لعدم الطلب من عندهم 
+اسوأ خدم",negative,negative
+Elmenus,I choose this meal for the first time and it will not be the last time I love it very much,5,Maryam A. Ahmad,6 years ago,اخترت هذه الوجبه لأول مره ولن تكون آخر مره أحبها كثيرا,positive,positive
+Elmenus,"the seafood tastes really bad and its not worth the price,almost got food poisoning from the fille fish,the food is very salty ans the shrimp is undercooked.
+and in their right mind deep fry fish and then marinate it in soy sauce and other sauces!?ab...",1,Sal ILu,7 years ago,"الأذواق المأكولات البحريه سيئه للغايه ولا تستحق الثمن  تقريبا تسمم غذائي من سمكه فيلي  والطعام هو المالح للغايه
+وفي عقلهم الصحيح أسماك العميقه ثم اقنعها في صلصه الصويا وغيرها من الصلصات AB ",negative,negative
+Elmenus,"أسوأ فرع علي الإطلاق 
+لا يوجد أرز أبيض وإخترعوا الأرز السبايبسي كمان الدجاج سيء وناقص مكونات كانت موجودة زمان 
+غير كمان إن السعر زاد وبقي أغلي من حتي باندا ووواك 
+
+أكل رديء بسعر أغلي والخدمة متخلفة عقليا كمان",1,Mohamed Samir,7 years ago,"أسوأ فرع علي الإطلاق 
+لا يوجد أرز أبيض وإخترعوا الأرز السبايبسي كمان الدجاج سيء وناقص مكونات كانت موجوده زمان 
+غير كمان إن السعر زاد وبقي أغلي من حتي باندا ووواك 
+
+أكل رديء بسعر أغلي والخدمه متخلفه عقليا كمان",negative,negative
+Elmenus,One of the best and cheap  asian restaurants,5,Andrew George,7 years ago,واحده من أفضل المطاعم الآسيويه الرخيصه,positive,negative
+Elmenus,طعم الاكل حلو وكميته كويسه والاسعار مناسبه للكميه,5,Miriam Maher,7 years ago,طعم الاكل حلو وكميته كويسه والاسعار مناسبه للكميه,positive,positive
+Elmenus,"سيء بجد ، النودلز اوحش نودلز كلتها في حياتي  و كله على بعضه قرف
+مول العرب",2,ishadoo,7 years ago,"سيء بجد  النودلز اوحش نودلز كلتها في حياتي  و كله علي بعضه قرف
+مول العرب",negative,negative
+Elmenus,ساعات بيكون حلو اووووى و ساعات التوابل بتكون over خصوصا ف طبق الفراخ التندوري بتاعهم,3,Engy Atya,7 years ago,ساوا بايون ,neutral,negative
+Elmenus,"المكان ده انا متعود اطلب منه شبه كل اسبوع الاكل بيكون كويس و كله تمام دايما كنت بشتكى من انه بينزل فلوس زياده على الديليفرى غير الى بيكون مكتوب فى otlob.com  لكن مافيش مشاكل و عمرى ما اشتكيت 
+
+اشتريت اخر مره الطلب اتأخر 3 ساعات حرفيا طلبت كذا مره انى...",1,Mina Malak,7 years ago,"الملمان ده نا موتود عداده chaldileizerي غyr alي pyكon mكtoeb في otlobcom 
+
+شtralyt azer mreh alطlb altأخer 3 SaudaTHATHAIATHAIA طLBT",negative,negative
+Elmenus,احلي سويت اند ساور دا ولا اييييه العشق❤,4,Butterfly Nina Armani,7 years ago,احلي سويت اند ساور دا ولا اييييه العشق,positive,negative
+Elmenus,جربته مرة عجبني اوي خصوصا سويت اند ساور المرة التانية خدت اصحابي معايا و ياريتني مخدتهم xD ف الموضوع موضوع ذوق ..ممكن يعجب حد و ميعجبش التاني ..مفيش توحيد ف الاراء علي انه حلو او وحش بس التجربة تستحق..تجربة اي اكل جديد دايما بتبقا ليها متعتها مهما كا...,3,Butterfly Nina Armani,7 years ago,جrabth arه ubجbny aliy خصoصa soyiTh arnad saor chorه altaniه ح و myaubجbش altaniy mفiش toحyad ف alaraء alyly annhe محما ,neutral,negative
+Elmenus,اكلو حلو والتوابل حلوه... بس مش للناس الاكيله ... مش هيشبعكم يا اكييييييله...,4,Ramy Ahmed,7 years ago,اكلو حلو والتوابل حلوه بس مش للناس الاكيله  مش هيشبعكم يا اكييييييله,positive,negative
+Elmenus,تشيكن سويت اند سور حلوة بس سبايسي لحمة مش اوي والرز عادي,3,Rania Samir Azab,7 years ago,تشيكن سويت اند سور حلوه بس سبايسي لحمه مش اوي والرز عادي,neutral,negative
+Elmenus,كان حلو اوووي ف الاول لكن دلوقتي الجودة قلت جدااا ومبقاش زي الاول بس انا بحب الاسبرنج رول بتاعهم,2,Rania Samir Azab,7 years ago,كان حلو اوووي ف الاول لكن دلوقتي الجوده قلت جدااا ومبقاش زي الاول بس انا بحب الاسبرنج رول بتاعهم,negative,negative
+Elmenus,Worst delivery ever! I got a wrong delivery and when I called them they said it’s otlob’s mistake not their’s and that it was too late for them to change it for me because “no one else would eat it”!!! I had to throw away half of my paid order becaus...,2,Reham Khaled Moharam,7 years ago,أسوأ تسليم علي الإطلاق لقد حصلت علي تسليم خاطئ وعندما اتصلت بهم قالوا إنه خطأ في Otlob ليس له وأن الوقت قد فات بالنسبه لهم لتغييره لي لأن لا أحد آخر سيأكله  اضطررت إلي التخلص من نصف طلبي المدفوع لأن ,negative,negative
+Elmenus,الاكل طعمه حلو بس كميه الفراخ او اللحمه بتبقى قليله اوي والخضار بيبقي كتير.. الخدمه سريعه وكويسه بس الاسعار زادت اوي,2,Sara Jamal ʚĩɞ,7 years ago,الاكل طعمه حلو بس كميه الفراخ او اللحمه بتبقي قليله اوي والخضار بيبقي كتير الخدمه سريعه وكويسه بس الاسعار زادت اوي,negative,negative
+Elmenus,غالي عالفاضي وزي الزفت,1,Ahmed Roshdy,7 years ago,غالي عالفاضي وزي الزفت,negative,negative
+Elmenus,"سئ جدا، الأكل بارد والسبرينج رول غرقان زيت وبارد وملهوش طعم، طلبت شوربة توم يام وكان الجمبري اللي فيها مستوي زيادة وزفر جدا، 
+ ومعرفتش أكملها منغير الجمبري عشان واخدة من زفارة الجمبري، اللحمة مستوية زيادة اوي ونشفت من السوا كأني باكل فردة كاوتش، والس...",1,Ahmed Roshdy,7 years ago,"سئ جدا الأكل بارد والسبرينج رول غرقان زيت وبارد وملهوش طعم طلبت شوربه توم يام وكان الجمبري اللي فيها مستوي زياده وزفر جدا 
+ ومعرفتش أكملها منغير الجمبري عشان واخده من زفاره الجمبري اللحمه مستويه زياده اوي ونشفت من السوا كأني باكل فرده كاوتش والس",negative,negative
+Elmenus,"الاول كان مستواه ممتاز 
+دلوقتي المستوى ف النازل كل مرة اكتر من اللي قبلها 
+ال sweet&sour بقى مسكر زيادة عن اللزوم 
+ال spicy beef كويس وال spicy chicken بردو 
+لو كييف spicy اطلب الnoodles spicy احسن",2,Asmaa Hesham,7 years ago,"الالافان 
+دلوشي المسمو 
+الله الحلو والفلف 
+لحم اللحم الحاره كoyos و ايل الدجاج الحار برفرو 
+ل كyiف حار طلب الشعيريه حاره",negative,negative
+Elmenus,"They have not so many sushi choices, however they are great.",5,Nancy Thompson,7 years ago,ليس لديهم الكثير من خيارات السوشي  ومع ذلك فهي رائعه,positive,positive
+Elmenus,Great steamed dumplings,5,Nancy Thompson,7 years ago,الزلابيه علي البخار كبيره,positive,negative
+Elmenus,Very well cooked ..,5,Nancy Thompson,7 years ago,مطبوخ جيدا ,positive,positive
+Elmenus,In love with teriyaki sauce specially on beef .. a must try if you like sweet food,5,Nancy Thompson,7 years ago,في حاله حب مع صلصه تيرياكي خصيصا علي لحوم البقر  يجب أن تحاول إذا كنت تحب الطعام الحلو,positive,negative
+Elmenus,Horrible experience very expensive compared to the portions ( the plate had 5 shrimps exactly ),1,Rina Medhat,7 years ago,تجربه مروعه باهظه الثمن مقارنه بالأجزاء كانت اللوحه 5 روبيان بالضبط,negative,negative
+Elmenus,"Tasty affordable asian food. I had chicken  Szechuan with spicy rise, and it was super delicious.",5,Fatma Sharif,8 years ago,طعام آسيوي بأسعار معقوله لذيذه كان لدي دجاج Szechuan مع ارتفاع حار  وكان لذيذ للغايه,positive,negative
+Elmenus,Sweet and sour and spicy noodles is my ???????? but the best branch at city stars,3,Amal Elshafie,8 years ago,المعكرونه الحلوه والحامضه والحاره هي بلدي  لكن أفضل فرع في سيتي ستارز,neutral,negative
+Elmenus,اكله حلو و توابل مظبوطة,3,Rawan El-Kowesni,8 years ago,اكله حلو و توابل مظبوطه,neutral,negative
+Elmenus,فرع سيتي ستارز . تاني مرة اجرب وبصراحة احسن من اول مرة الاكل مظبوط والتوابل وكميتهم مشبعة مع السعر ك عادة الاكل الاسيوي . انا بس انبهرت بالتوابل المرادي وي رب كل مرة كدا .,4,Sarah M Marei,8 years ago,فرع سيتي ستارز  تاني مره اجرب وبصراحه احسن من اول مره الاكل مظبوط والتوابل وكميتهم مشبعه مع السعر ك عاده الاكل الاسيوي  انا بس انبهرت بالتوابل المرادي وي رب كل مره كدا ,positive,negative
+Elmenus,ساعات بيبقى حلو و ساعات بتبقى توابل الفراخ و اللحمه زياده لدرجه طعمها مش بيبان,3,Khadiga Moutaz,8 years ago,ساعات بيبقي حلو و ساعات بتبقي توابل الفراخ و اللحمه زياده لدرجه طعمها مش بيبان,neutral,negative
+Elmenus,"One of my favorite places offering asian food 
+Really tasty",4,amira m.,8 years ago,"أحد الأماكن المفضله لدي التي تقدم الطعام الآسيوي 
+لذيذ حقا",positive,positive
+Elmenus,جربته مره احده  عجبني جداا  بس صحابي دعو عليه,4,Yousef Hasanin,8 years ago,جربته مره احده  عجبني جداا  بس صحابي دعو عليه,positive,positive
+Elmenus,Chicken schezwan and beef barbecue are good. Spring rolls and shrimp konafa are good starters,4,Mohamed Kamal,8 years ago,دجاج شزوان ولحم البقر الشواء جيد لفات الربيع والروبيان كونافا مبتدئين جيدين,positive,negative
+Elmenus,انا كنت بحبه بس فى مرة فى مول العرب كانوا حاطين الاكل البايت الصبح,3,Aya Hanafy,8 years ago,انا كنت بحبه بس في مره في مول العرب كانوا حاطين الاكل البايت الصبح,neutral,negative
+Elmenus,طعمو سيء و الصوص بارد,1,Mahmoud Ashraf,8 years ago,طعمو سيء و الصوص بارد,negative,negative
+Elmenus,The sushi combos' aren't expensive at all but the only problem is the quality of the nori wasn't good at all as it was hard to swallow,3,Aly Mohamed,8 years ago,مجموعات السوشي ليست باهظه الثمن علي الإطلاق  لكن المشكله الوحيده هي جوده نوري لم تكن جيده علي الإطلاق لأنه كان من الصعب البلع,neutral,negative
+Elmenus,"فرع سيتي ستارز 
+جبت وجبة المهراجا اللي كانت ٣ أصناف اخدت مكرونة ولحمة وفراخ عاديين 
+المكرونة كانت مسلوقة ومافيهاش أي طعم واللحمة كارثة وبتشد والفراخ عادية 
+بقى سيئ جدا",1,Noura Roshdy,8 years ago,"فرع سيتي ستارز 
+جبت وجبه المهراجا اللي كانت ٣ أصناف اخدت مكرونه ولحمه وفراخ عاديين 
+المكرونه كانت مسلوقه ومافيهاش أي طعم واللحمه كارثه وبتشد والفراخ عاديه 
+بقي سيئ جدا",negative,negative
+Elmenus,الأكل طعمه حلو جدا و الكمية كتير و الأسعار كويسة,3,Rahma Waleed,8 years ago,الأكل طعمه حلو جدا و الكميه كتير و الأسعار كويسه,neutral,positive
+Elmenus,"Nice , love their chicken sweet and sour ,",3,Hanan Hosain,8 years ago,جميل  أحب الدجاج الحلو والحامض ,neutral,positive
+Elmenus,"El-akl helww gdn garabt mn far3 Mall masr w Sun city , el wagba b 49 bel dariiba , noodles aw rice w m3aha sanfeen lo7oom w frakh ,awl marra garabt el sweet and sour , tany marra chicken creamy w meat , akher marra kalt spicy w ceamy , el creamy helw...",4,Jasmien Khaled,8 years ago,Elakl helww gdn garabt mn far3 Mall masr w Sun city  el wagba b 49 bel dariiba  noodles aw rice w m3aha sanfeen lo7oom w frakh awl marra garabt el sweet and sour  tany marra chicken creamy w meat  akher marra kalt spicy w ceamy  el creamy helw,positive,negative
+Elmenus,"وحش جدا مقارنة بالمنافس اللي ليه اللي في الوفد كورت معاه في مول العرب.
+الاكل مش واخد كفايته من الصوص وبارد وطعم السبرينج رول وحش اوي",2,Mariam Emad El-Deen,8 years ago,"وحش جدا مقارنه بالمنافس اللي ليه اللي في الوفد كورت معاه في مول العرب
+الاكل مش واخد كفايته من الصوص وبارد وطعم السبرينج رول وحش اوي",negative,negative
+Elmenus,I use to order from them and it was nice but today it was the worst food ever i couldnt even eat it,1,Nancy Saad,8 years ago,اعتدت أن أطلب منهم وكان لطيفا ولكن اليوم كان أسوأ طعام علي الإطلاق لم أتمكن من تناوله,negative,negative
+Elmenus,مش وحش كحل سريع للاكل لو انت فى مول .. مش احلى نودلز موجودة ... و كمية الفراخ قليلة  .. بس الاسبرنج رول حلوة اوى .... و نصبحة لو بتعرف تاكل ب الشيب ستيكس اطلبها لانها اسها بكتييييير من الشوكة .. انا نسيت اطلبها اتعذبت و انا باكل علشان الشوك خامتها وح...,3,nada abu-hashish,8 years ago,مش وحش كحل سريع للاكل لو انت في مول  مش احلي نودلز موجوده  و كميه الفراخ قليله   بس الاسبرنج رول حلوه اوي  و نصبحه لو بتعرف تاكل ب الشيب ستيكس اطلبها لانها اسها بكتييييير من الشوكه  انا نسيت اطلبها اتعذبت و انا باكل علشان الشوك خامتها وح,neutral,negative
+Elmenus,طعمه حلو اوي اوي كمان,5,Ahmed Mohamed,8 years ago,طعمه حلو اوي اوي كمان,positive,positive
+Elmenus,معندوش ترخيص وبيعمل الاكل تحت بير السلم,1,Ahmed Farweez,8 years ago,معندوش ترخيص وبيعمل الاكل تحت بير السلم,negative,negative
+Elmenus,It was a bad experience,1,Ahmed Farweez,8 years ago,لقد كانت تجربه سيئه,negative,negative
+Elmenus,Very nice as its fast food,5,Ola Sammy Foodilla,8 years ago,جميل جدا مثل الوجبات السريعه,positive,positive
+Elmenus,الاكل كويس و الكمية بتبقي كويسة,4,Sarah Mosaad,8 years ago,الاكل كويس و الكميه بتبقي كويسه,positive,negative
+Elmenus,I love it i like noodles,5,UFO World,8 years ago,أنا أحب ذلك أحب المعكرونه,positive,positive
+Elmenus,فرع مول مصر الفود كورت  يوم السبت 15-4-2017 الساعه 1 الظهر و كانت اول مره اجربه طلبت سبرنج رول بالخضار طعمها بايت او طعم زيت مكمكم مقرفه بصرحه و مش عارف ازاى سعرها كده و هى رفيعه  طعمها مش حلو كده- تانى حاجه جربتها الرز بالخضروات و برضه معمه مقرف و ت...,2,Marco Safwat Ramzy,8 years ago,فرع مول مصر الفود كورت  يوم السبت 1542017 الساعه 1 الظهر و كانت اول مره اجربه طلبت سبرنج رول بالخضار طعمها بايت او طعم زيت مكمكم مقرفه بصرحه و مش عارف ازاي سعرها كده و هي رفيعه  طعمها مش حلو كده تاني حاجه جربتها الرز بالخضروات و برضه معمه مقرف و ت,negative,negative
+Elmenus,Loved thier sweet and sour,3,Kirolos Victor,8 years ago,أحببت الحلو والحامض,neutral,positive
+Elmenus,"كلت منه امبارح في مول العرب لقيته مش زي زمان خالص مع انه غلي الاسعار 
+الاكل كان بارد و مفيش الا 3 انواع بس موجودين",3,mohamed gamal,8 years ago,"كلت منه امبارح في مول العرب لقيته مش زي زمان خالص مع انه غلي الاسعار 
+الاكل كان بارد و مفيش الا 3 انواع بس موجودين",neutral,negative
+Elmenus,"for me it's my favorite of all time,
+have been to Maadi branch several times in many occasions and i never had a negative comment, it might be a bit expensive yet it is totally worth it.",5,Amr Saad,8 years ago,"بالنسبه لي  إنه المفضل لدي علي الإطلاق 
+لقد ذهبت إلي Maadi Branch عده مرات في العديد من المناسبات ولم يكن لدي تعليق سلبي  قد يكون مكلفا بعض الشيء ولكنه يستحق ذلك تماما",positive,negative
+Elmenus,بنتي جالها تسمم بعد ما كلت في فرع مصر ال جديده و كانت ريحة المحل وحشه جدا و كل شويه يرشوا معطر لدرجة اني قلتلهم كفايه هنتخنق أكلنا و بعد ما روحنا بنتي تعبت جدا و نقلناها المستشفي طلع عندها تسمم من اكل فاسد,1,Sherry Ali,9 years ago,بنتي جالها تسمم بعد ما كلت في فرع مصر ال جديده و كانت ريحه المحل وحشه جدا و كل شويه يرشوا معطر لدرجه اني قلتلهم كفايه هنتخنق أكلنا و بعد ما روحنا بنتي تعبت جدا و نقلناها المستشفي طلع عندها تسمم من اكل فاسد,negative,negative
+Elmenus,This place gives Asian food a bad reputation.,1,Ahmed Farweez,9 years ago,هذا المكان يعطي الطعام الآسيوي سمعه سيئه,negative,negative
+Elmenus,I ordered a dish from this place and it was horrible.,1,Ahmed Farweez,9 years ago,طلبت طبقا من هذا المكان وكان فظيعا,negative,negative
+Elmenus,very rude customer service.,1,Ayatuallah Hussein,9 years ago,خدمه عملاء وقحه جدا,negative,negative
+Elmenus,It's an ammazing food,4,Muhammed Ali Ghonaim,9 years ago,إنه طعام يذوق,positive,negative
+Elmenus,masala and sweet&sour are really tasty. highly affordable and fine portions.,4,Zeina Ehab,9 years ago,ماسالا وحلو وحامض لذيذ حقا أجزاء بأسعار معقوله للغايه وغرامه,positive,positive
+Elmenus,"Love It so much , The Sweet & Sour Chicken Dish was amazing and Also The Black Caviar Sushi",5,Sandy Samir,9 years ago,أحبها كثيرا  كان طبق الدجاج الحلو والحامض مذهلا وأيضا السوشي الكافيار الأسود,positive,positive
+Elmenus,"I had a very bad experience with the delivery from Asian Corner Maadi. The food was overpriced, we paid 40 le more in the delivery than we usually pay for exactly the same dishes in their restaurants; they mixed up the order completely and brought us...",1,Dominika,10 years ago,كانت لدي تجربه سيئه للغايه مع التسليم من الزاويه الآسيويه Maadi كان الطعام مبالغا فيه  ودفعنا 40 عاما في التسليم أكثر مما ندفعه عاده مقابل نفس الأطباق في مطاعمهم تماما  لقد خلطوا الأمر تماما وجلبونا ,negative,negative
+Elmenus,"i love it, i ordered Korma chicken and basmaty rice, the chicken was soaked in the very white heavy clean korma sauce.the sauce was amazing.the chicken dish matched a lot with the basmaty rice with herbs..i totally recommend it..i have tried the chic...",5,perry diab,10 years ago,أنا أحب ذلك  طلبت من كورما دجاج وأرز البسمنه  وكان الدجاج غارقا في صلصه كورما النظيفه البيضاء للغايه كانت الصلصه مدهشه طبق الدجاج يتطابق كثيرا مع الأرز البسمتي بالأعشاب  أوصي بها تماما  لقد جربت الأنيقه ,positive,negative
+Elmenus,"iloved it, the plate was big enough for one person, the basmaty rice was perfect, and the chickem plate was very nice, yet i didnt like if a l
+ot , because they didnt mention it was spicy, so i only discovered after i ordered and ate from it",4,perry diab,10 years ago,"Iloved  كانت اللوحه كبيره بما يكفي لشخص واحد  وكان الأرز البسمني مثاليا  وكانت لوحه Chickem لطيفه للغايه  ومع ذلك لم يعجبني إذا
+OT  لأنهم لم يذكروا أنه كان حارا  لذلك اكتشفت فقط بعد أن أمرت وأكلت منه",positive,negative
+Elmenus,I love this place the food is delicious and the service is good I always eat there,4,Sohair Samy,10 years ago,أنا أحب هذا المكان الطعام لذيذ والخدمه جيده أنا دائما آكل هناك,positive,positive
+Elmenus,i think its better than panda house and really i like the sweet and sour chicken its the best thing they serve,4,Nour Osama,10 years ago,أعتقد أنه أفضل من منزل الباندا  وأنا أحب الدجاج الحلو والحامض  إنه أفضل شيء يخدمونه,positive,positive
+Elmenus,"bad experience at maadi branch.. the service is horrible, the waiters are the worst, food is kinda good but the waiters are creeping on you the whole time",2,attar,10 years ago,تجربه سيئه في فرع Maadi  الخدمه فظيعه  والنادلون هم الأسوأ  والطعام جيد نوعا ما ولكن النوادل تزحف عليك طوال الوقت,negative,negative
+Elmenus,Tasty foods but expensive compare to plates size & their delivery take too long time.,3,Tarek El-Dæry,10 years ago,الأطعمه اللذيذه ولكن باهظه الثمن مقارنه مع حجم لوحات وتسليمها يستغرق وقتا طويلا للغايه,neutral,negative
+Elmenus,Tandury chicken is very wonderfull,4,ALy AdLy,10 years ago,تاندوري دجاج رائع جدا,positive,positive
+Elmenus,"Tried this place, give us your review",1,Mazen Nabawy Ismail,10 years ago,جرب هذا المكان  أعطنا مراجعتك,negative,positive
+Elmenus,my fav asian restaurant so far ! service is great !,4,Sama H.,11 years ago,مطعمي الآسيوي المفضل حتي الآن الخدمه رائعه,positive,positive
+Elmenus,"I love it . The food is really good , the plates came on time , even though one order was a little late . The customer service is good and the place is really cozy .",4,heba,11 years ago,أنا أحبه  الطعام جيد حقا  جاءت اللوحات في الوقت المحدد  علي الرغم من أن طلبا واحدا متأخرا قليلا خدمه العملاء جيده والمكان مريح حقا,positive,positive
+Elmenus,Nice food with reasonable price..,4,Ahmad Atef,11 years ago,طعام جميل بسعر معقول ,positive,positive
+Elmenus,horrible food... Paid 100 LE for terrible old stale unseasoned sushi and the most horrible dumplings ever.. the only thing they can do is mediocre sweet and sour chicken at the food courts.. but the dining branch is terrible,1,Basma T. Zewar,11 years ago,طعام فظيع  دفع 100 LE للسوشي القديمه الرهيبه غير المميته وأحدث الزلابيه علي الإطلاق  الشيء الوحيد الذي يمكنهم فعله هو الدجاج الحلو والحامض المتوسط في ملاعب الطعام  لكن فرع الطعام فظيع,negative,negative
+Elmenus,"Absolutely horrible food, Awful service as well. I used to go eat there but one time when I ordered in, they called me after 40 minutes to say they forgot what I originally ordered and to retake my order and then proceeded to tell me '""oh we don't ha...",1,Nashwa Magdy El-Tahlawy,11 years ago,طعام فظيع للغايه  خدمه فظيعه كذلك اعتدت أن أتناول الطعام هناك ولكن مره واحده عندما طلبت  اتصلوا بي بعد 40 دقيقه لأقول إنهم نسيوا ما طلبته في الأصل واستعاده طلبي ثم شرعوا في إخباري  أوه لا نحن لا ,negative,negative
+Elmenus,"has little to do with asian food, the city stars branch is terrible but the one in genena mall is much better.. it's good as fast food and you get good amount for your money",3,Basma T. Zewar,11 years ago,لا علاقه له بالطعام الآسيوي  فرع نجوم المدينه أمر فظيع ولكن واحد في Genena Mall أفضل بكثير  إنه جيد مثل الوجبات السريعه وستحصل علي مبلغ جيد مقابل أموالك,neutral,negative
+Elmenus,"I hate to write bad reviews but I ordered a dish from this place and it was horrible. I will never go back to this place and I warn anyone who's thinking about it. Don't waste your time. I ordered a chicken dish and the chicken was spoiled, noodles w...",1,KikiB,12 years ago,أنا أكره أن أكتب مراجعات سيئه ولكني طلبت طبقا من هذا المكان وكان فظيعا لن أعود أبدا إلي هذا المكان وأحذر أي شخص يفكر في الأمر لا تضيع وقتك طلبت طبق دجاج وكان الدجاج مدللا  معريه ث ,negative,negative
+Elmenus,"Has absolutely nothing to do with Asian cuisine, especially with fabricated names for dishes such as 'beef spicy' and what not. Bland food, lacking in flavors, and giving a bad reputation for Asian cuisine in Cairo. Definitely not recommended for tho...",1,Gastro Guru,12 years ago,لا علاقه له علي الإطلاق بالمأكولات الآسيويه  خاصه مع أسماء ملفقه للأطباق مثل لحم البقر الحار وما لا طعام لطيف  يفتقر إلي النكهات  وإعطاء سمعه سيئه للمطبخ الآسيوي في القاهره بالتأكيد لا ينصح به ,negative,negative
+Elmenus,"A very nice restaurant to have Asian style meal, with reasonable price. I love spicy food, and Asian food give me what i want the correct phone of the city stars branch is 24802644",3,Mohamed Shalaby,13 years ago,مطعم لطيف للغايه لتناول وجبه علي الطراز الآسيوي  بسعر معقول أحب الطعام الحار  والطعام الآسيوي يعطيني ما أريد الهاتف الصحيح لفرع نجوم المدينه هو 24802644,neutral,positive
